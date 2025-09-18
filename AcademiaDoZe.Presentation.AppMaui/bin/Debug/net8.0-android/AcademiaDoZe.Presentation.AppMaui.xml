@@ -1,0 +1,119 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>AcademiaDoZe.Presentation.AppMaui</name>
+    </assembly>
+    <members>
+        <member name="T:AcademiaDoZe.Presentation.AppMaui.ViewModels.DashboardListViewModel">
+            <inheritdoc/>
+            <inheritdoc/>
+            <inheritdoc/>
+            <inheritdoc/>
+            <inheritdoc/>
+        </member>
+        <member name="F:AcademiaDoZe.Presentation.AppMaui.ViewModels.DashboardListViewModel.loadDashboardDataCommand">
+            <summary>The backing field for <see cref="P:AcademiaDoZe.Presentation.AppMaui.ViewModels.DashboardListViewModel.LoadDashboardDataCommand"/>.</summary>
+        </member>
+        <member name="P:AcademiaDoZe.Presentation.AppMaui.ViewModels.DashboardListViewModel.LoadDashboardDataCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand"/> instance wrapping <see cref="M:AcademiaDoZe.Presentation.AppMaui.ViewModels.DashboardListViewModel.LoadDashboardDataAsync"/>.</summary>
+        </member>
+        <member name="F:AcademiaDoZe.Presentation.AppMaui.ViewModels.DashboardListViewModel.navigateToLogradourosCommand">
+            <summary>The backing field for <see cref="P:AcademiaDoZe.Presentation.AppMaui.ViewModels.DashboardListViewModel.NavigateToLogradourosCommand"/>.</summary>
+        </member>
+        <member name="P:AcademiaDoZe.Presentation.AppMaui.ViewModels.DashboardListViewModel.NavigateToLogradourosCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand"/> instance wrapping <see cref="M:AcademiaDoZe.Presentation.AppMaui.ViewModels.DashboardListViewModel.NavigateToLogradourosAsync"/>.</summary>
+        </member>
+        <member name="F:AcademiaDoZe.Presentation.AppMaui.ViewModels.DashboardListViewModel.navigateToAlunosCommand">
+            <summary>The backing field for <see cref="P:AcademiaDoZe.Presentation.AppMaui.ViewModels.DashboardListViewModel.NavigateToAlunosCommand"/>.</summary>
+        </member>
+        <member name="P:AcademiaDoZe.Presentation.AppMaui.ViewModels.DashboardListViewModel.NavigateToAlunosCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand"/> instance wrapping <see cref="M:AcademiaDoZe.Presentation.AppMaui.ViewModels.DashboardListViewModel.NavigateToAlunosAsync"/>.</summary>
+        </member>
+        <member name="F:AcademiaDoZe.Presentation.AppMaui.ViewModels.DashboardListViewModel.navigateToColaboradoresCommand">
+            <summary>The backing field for <see cref="P:AcademiaDoZe.Presentation.AppMaui.ViewModels.DashboardListViewModel.NavigateToColaboradoresCommand"/>.</summary>
+        </member>
+        <member name="P:AcademiaDoZe.Presentation.AppMaui.ViewModels.DashboardListViewModel.NavigateToColaboradoresCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand"/> instance wrapping <see cref="M:AcademiaDoZe.Presentation.AppMaui.ViewModels.DashboardListViewModel.NavigateToColaboradoresAsync"/>.</summary>
+        </member>
+        <member name="F:AcademiaDoZe.Presentation.AppMaui.ViewModels.DashboardListViewModel.navigateToMatriculasCommand">
+            <summary>The backing field for <see cref="P:AcademiaDoZe.Presentation.AppMaui.ViewModels.DashboardListViewModel.NavigateToMatriculasCommand"/>.</summary>
+        </member>
+        <member name="P:AcademiaDoZe.Presentation.AppMaui.ViewModels.DashboardListViewModel.NavigateToMatriculasCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand"/> instance wrapping <see cref="M:AcademiaDoZe.Presentation.AppMaui.ViewModels.DashboardListViewModel.NavigateToMatriculasAsync"/>.</summary>
+        </member>
+        <member name="T:AcademiaDoZe.Presentation.AppMaui.ViewModels.LogradouroListViewModel">
+            <inheritdoc/>
+            <inheritdoc/>
+            <inheritdoc/>
+            <inheritdoc/>
+            <inheritdoc/>
+            <inheritdoc/>
+        </member>
+        <member name="F:AcademiaDoZe.Presentation.AppMaui.ViewModels.LogradouroListViewModel.addLogradouroCommand">
+            <summary>The backing field for <see cref="P:AcademiaDoZe.Presentation.AppMaui.ViewModels.LogradouroListViewModel.AddLogradouroCommand"/>.</summary>
+        </member>
+        <member name="P:AcademiaDoZe.Presentation.AppMaui.ViewModels.LogradouroListViewModel.AddLogradouroCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand"/> instance wrapping <see cref="M:AcademiaDoZe.Presentation.AppMaui.ViewModels.LogradouroListViewModel.AddLogradouroAsync"/>.</summary>
+        </member>
+        <member name="F:AcademiaDoZe.Presentation.AppMaui.ViewModels.LogradouroListViewModel.editLogradouroCommand">
+            <summary>The backing field for <see cref="P:AcademiaDoZe.Presentation.AppMaui.ViewModels.LogradouroListViewModel.EditLogradouroCommand"/>.</summary>
+        </member>
+        <member name="P:AcademiaDoZe.Presentation.AppMaui.ViewModels.LogradouroListViewModel.EditLogradouroCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand`1"/> instance wrapping <see cref="M:AcademiaDoZe.Presentation.AppMaui.ViewModels.LogradouroListViewModel.EditLogradouroAsync(AcademiaDoZe.Application.DTOs.LogradouroDTO)"/>.</summary>
+        </member>
+        <member name="F:AcademiaDoZe.Presentation.AppMaui.ViewModels.LogradouroListViewModel.refreshCommand">
+            <summary>The backing field for <see cref="P:AcademiaDoZe.Presentation.AppMaui.ViewModels.LogradouroListViewModel.RefreshCommand"/>.</summary>
+        </member>
+        <member name="P:AcademiaDoZe.Presentation.AppMaui.ViewModels.LogradouroListViewModel.RefreshCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand"/> instance wrapping <see cref="M:AcademiaDoZe.Presentation.AppMaui.ViewModels.LogradouroListViewModel.RefreshAsync"/>.</summary>
+        </member>
+        <member name="F:AcademiaDoZe.Presentation.AppMaui.ViewModels.LogradouroListViewModel.searchLogradourosCommand">
+            <summary>The backing field for <see cref="P:AcademiaDoZe.Presentation.AppMaui.ViewModels.LogradouroListViewModel.SearchLogradourosCommand"/>.</summary>
+        </member>
+        <member name="P:AcademiaDoZe.Presentation.AppMaui.ViewModels.LogradouroListViewModel.SearchLogradourosCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand"/> instance wrapping <see cref="M:AcademiaDoZe.Presentation.AppMaui.ViewModels.LogradouroListViewModel.SearchLogradourosAsync"/>.</summary>
+        </member>
+        <member name="F:AcademiaDoZe.Presentation.AppMaui.ViewModels.LogradouroListViewModel.loadLogradourosCommand">
+            <summary>The backing field for <see cref="P:AcademiaDoZe.Presentation.AppMaui.ViewModels.LogradouroListViewModel.LoadLogradourosCommand"/>.</summary>
+        </member>
+        <member name="P:AcademiaDoZe.Presentation.AppMaui.ViewModels.LogradouroListViewModel.LoadLogradourosCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand"/> instance wrapping <see cref="M:AcademiaDoZe.Presentation.AppMaui.ViewModels.LogradouroListViewModel.LoadLogradourosAsync"/>.</summary>
+        </member>
+        <member name="F:AcademiaDoZe.Presentation.AppMaui.ViewModels.LogradouroListViewModel.deleteLogradouroCommand">
+            <summary>The backing field for <see cref="P:AcademiaDoZe.Presentation.AppMaui.ViewModels.LogradouroListViewModel.DeleteLogradouroCommand"/>.</summary>
+        </member>
+        <member name="P:AcademiaDoZe.Presentation.AppMaui.ViewModels.LogradouroListViewModel.DeleteLogradouroCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand`1"/> instance wrapping <see cref="M:AcademiaDoZe.Presentation.AppMaui.ViewModels.LogradouroListViewModel.DeleteLogradouroAsync(AcademiaDoZe.Application.DTOs.LogradouroDTO)"/>.</summary>
+        </member>
+        <member name="T:AcademiaDoZe.Presentation.AppMaui.ViewModels.LogradouroViewModel">
+            <inheritdoc/>
+            <inheritdoc/>
+            <inheritdoc/>
+            <inheritdoc/>
+        </member>
+        <member name="F:AcademiaDoZe.Presentation.AppMaui.ViewModels.LogradouroViewModel.cancelCommand">
+            <summary>The backing field for <see cref="P:AcademiaDoZe.Presentation.AppMaui.ViewModels.LogradouroViewModel.CancelCommand"/>.</summary>
+        </member>
+        <member name="P:AcademiaDoZe.Presentation.AppMaui.ViewModels.LogradouroViewModel.CancelCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand"/> instance wrapping <see cref="M:AcademiaDoZe.Presentation.AppMaui.ViewModels.LogradouroViewModel.CancelAsync"/>.</summary>
+        </member>
+        <member name="F:AcademiaDoZe.Presentation.AppMaui.ViewModels.LogradouroViewModel.loadLogradouroCommand">
+            <summary>The backing field for <see cref="P:AcademiaDoZe.Presentation.AppMaui.ViewModels.LogradouroViewModel.LoadLogradouroCommand"/>.</summary>
+        </member>
+        <member name="P:AcademiaDoZe.Presentation.AppMaui.ViewModels.LogradouroViewModel.LoadLogradouroCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand"/> instance wrapping <see cref="M:AcademiaDoZe.Presentation.AppMaui.ViewModels.LogradouroViewModel.LoadLogradouroAsync"/>.</summary>
+        </member>
+        <member name="F:AcademiaDoZe.Presentation.AppMaui.ViewModels.LogradouroViewModel.searchByCepCommand">
+            <summary>The backing field for <see cref="P:AcademiaDoZe.Presentation.AppMaui.ViewModels.LogradouroViewModel.SearchByCepCommand"/>.</summary>
+        </member>
+        <member name="P:AcademiaDoZe.Presentation.AppMaui.ViewModels.LogradouroViewModel.SearchByCepCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand"/> instance wrapping <see cref="M:AcademiaDoZe.Presentation.AppMaui.ViewModels.LogradouroViewModel.SearchByCepAsync"/>.</summary>
+        </member>
+        <member name="F:AcademiaDoZe.Presentation.AppMaui.ViewModels.LogradouroViewModel.saveLogradouroCommand">
+            <summary>The backing field for <see cref="P:AcademiaDoZe.Presentation.AppMaui.ViewModels.LogradouroViewModel.SaveLogradouroCommand"/>.</summary>
+        </member>
+        <member name="P:AcademiaDoZe.Presentation.AppMaui.ViewModels.LogradouroViewModel.SaveLogradouroCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand"/> instance wrapping <see cref="M:AcademiaDoZe.Presentation.AppMaui.ViewModels.LogradouroViewModel.SaveLogradouroAsync"/>.</summary>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AcademiaDoZe.Presentation.AppMaui.Views.DashboardListPage"
+             BackgroundColor="White">
+    <Grid>
+        <ScrollView>
+            <StackLayout Padding="20" Spacing="20">
+                <StackLayout Spacing="10" Margin="0,0,0,10" HorizontalOptions="Center">
+                    <Image Source="academiadoze.png" HeightRequest="200" WidthRequest="200"/>
+                    <Label Text="Academia do Zé" FontSize="28" FontAttributes="Bold" HorizontalTextAlignment="Center"/>
+                    <Label Text="Sistema de Gerenciamento" FontSize="18" HorizontalTextAlignment="Center" TextColor="Gray"/>
+                </StackLayout>
+                <FlexLayout Direction="Row" Wrap="Wrap" JustifyContent="SpaceAround" Margin="0,10" AlignItems="Center">
+                    <Frame WidthRequest="150" HeightRequest="120" Padding="10" CornerRadius="10">
+                        <Frame.Background>
+                            <LinearGradientBrush StartPoint="0,0" EndPoint="1,1">
+                                <GradientStop Color="#B0B0B0" Offset="0.0"/>
+                                <GradientStop Color="#404040" Offset="1.0"/>
+                            </LinearGradientBrush>
+                        </Frame.Background>
+                        <Frame.GestureRecognizers>
+                            <TapGestureRecognizer Command="{Binding NavigateToLogradourosCommand}"/>
+                        </Frame.GestureRecognizers>
+                        <StackLayout Spacing="5" HorizontalOptions="Center">
+                            <Image Source="icon_logradouro.png" HeightRequest="30"/>
+                            <Label Text="{Binding TotalLogradouros}" FontSize="20" FontAttributes="Bold" HorizontalTextAlignment="Center"/>
+                            <Label Text="Logradouros" HorizontalTextAlignment="Center"/>
+                        </StackLayout>
+                    </Frame>
+                    <Frame WidthRequest="150" HeightRequest="120" Padding="10" CornerRadius="10">
+                        <Frame.Background>
+                            <LinearGradientBrush StartPoint="0,0" EndPoint="1,1">
+                                <GradientStop Color="#B0B0B0" Offset="0.0"/>
+                                <GradientStop Color="#404040" Offset="1.0"/>
+                            </LinearGradientBrush>
+                        </Frame.Background>
+                        <Frame.GestureRecognizers>
+                            <TapGestureRecognizer Command="{Binding NavigateToAlunosCommand}"/>
+                        </Frame.GestureRecognizers>
+                        <StackLayout Spacing="5" HorizontalOptions="Center">
+                            <Image Source="icon_aluno.png" HeightRequest="30"/>
+                            <Label Text="{Binding TotalAlunos}" FontSize="20" FontAttributes="Bold" HorizontalTextAlignment="Center"/>
+                            <Label Text="Alunos" HorizontalTextAlignment="Center"/>
+                        </StackLayout>
+                    </Frame>
+                    <Frame WidthRequest="150" HeightRequest="120" Padding="10" CornerRadius="10">
+                        <Frame.Background>
+                            <LinearGradientBrush StartPoint="0,0" EndPoint="1,1">
+                                <GradientStop Color="#B0B0B0" Offset="0.0"/>
+                                <GradientStop Color="#404040" Offset="1.0"/>
+                            </LinearGradientBrush>
+                        </Frame.Background>
+                        <Frame.GestureRecognizers>
+                            <TapGestureRecognizer Command="{Binding NavigateToColaboradoresCommand}"/>
+                        </Frame.GestureRecognizers>
+                        <StackLayout Spacing="5" HorizontalOptions="Center">
+                            <Image Source="icon_colaborador.png" HeightRequest="30"/>
+                            <Label Text="{Binding TotalColaboradores}" FontSize="20" FontAttributes="Bold" HorizontalTextAlignment="Center"/>
+                            <Label Text="Colaboradores" HorizontalTextAlignment="Center"/>
+                        </StackLayout>
+                    </Frame>
+                    <Frame WidthRequest="150" HeightRequest="120" Padding="10" CornerRadius="10">
+                        <Frame.Background>
+                            <LinearGradientBrush StartPoint="0,0" EndPoint="1,1">
+                                <GradientStop Color="#B0B0B0" Offset="0.0"/>
+                                <GradientStop Color="#404040" Offset="1.0"/>
+                            </LinearGradientBrush>
+                        </Frame.Background>
+                        <Frame.GestureRecognizers>
+                            <TapGestureRecognizer Command="{Binding NavigateToMatriculasCommand}"/>
+                        </Frame.GestureRecognizers>
+                        <StackLayout Spacing="5" HorizontalOptions="Center">
+                            <Image Source="icon_matricula.png" HeightRequest="30"/>
+                            <Label Text="{Binding TotalMatriculas}" FontSize="20" FontAttributes="Bold" HorizontalTextAlignment="Center"/>
+                            <Label Text="Matrículas" HorizontalTextAlignment="Center"/>
+                        </StackLayout>
+                    </Frame>
+                </FlexLayout>
+            </StackLayout>
+        </ScrollView>
+        <Grid IsVisible="{Binding IsBusy}" BackgroundColor="#80000000" VerticalOptions="Fill" HorizontalOptions="Fill">
+            <ActivityIndicator IsRunning="True" VerticalOptions="Center" HorizontalOptions="Center" Color="White"/>
+        </Grid>
+    </Grid>
+</ContentPage>
