@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pPe5+pdIrOk=",
+  "dgSpecHash": "bVa0OoF6sG8=",
   "success": true,
-  "projectFilePath": "C:\\Users\\es874\\Source\\Repos\\AcademiaZe\\AcademiaDoZe.Infrastructure.Tests\\AcademiaDoZe.Infrastructure.Tests.csproj",
+  "projectFilePath": "C:\\Users\\es874\\source\\repos\\AcademiaDoZeee\\AcademiaDoZe.Infrastructure.Tests\\AcademiaDoZe.Infrastructure.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\es874\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\es874\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

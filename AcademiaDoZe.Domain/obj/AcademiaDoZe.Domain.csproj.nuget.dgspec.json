@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\es874\\Source\\Repos\\AcademiaZe\\AcademiaDoZe.Domain\\AcademiaDoZe.Domain.csproj": {}
+    "C:\\Users\\es874\\source\\repos\\AcademiaDoZeee\\AcademiaDoZe.Domain\\AcademiaDoZe.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\es874\\Source\\Repos\\AcademiaZe\\AcademiaDoZe.Domain\\AcademiaDoZe.Domain.csproj": {
+    "C:\\Users\\es874\\source\\repos\\AcademiaDoZeee\\AcademiaDoZe.Domain\\AcademiaDoZe.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\es874\\Source\\Repos\\AcademiaZe\\AcademiaDoZe.Domain\\AcademiaDoZe.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\es874\\source\\repos\\AcademiaDoZeee\\AcademiaDoZe.Domain\\AcademiaDoZe.Domain.csproj",
         "projectName": "AcademiaDoZe.Domain",
-        "projectPath": "C:\\Users\\es874\\Source\\Repos\\AcademiaZe\\AcademiaDoZe.Domain\\AcademiaDoZe.Domain.csproj",
+        "projectPath": "C:\\Users\\es874\\source\\repos\\AcademiaDoZeee\\AcademiaDoZe.Domain\\AcademiaDoZe.Domain.csproj",
         "packagesPath": "C:\\Users\\es874\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\es874\\Source\\Repos\\AcademiaZe\\AcademiaDoZe.Domain\\obj\\",
+        "outputPath": "C:\\Users\\es874\\source\\repos\\AcademiaDoZeee\\AcademiaDoZe.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
