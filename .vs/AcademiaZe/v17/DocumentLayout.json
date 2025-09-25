@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\es874\\source\\repos\\AcademiaDoZeee\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A09E9BBB-60AC-4407-9A36-61AD266C6F82}|AcademiaDoZe.Presentation.AppMaui\\AcademiaDoZe.Presentation.AppMaui.csproj|c:\\users\\es874\\source\\repos\\academiadozeee\\academiadoze.presentation.appmaui\\views\\logradouropage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A09E9BBB-60AC-4407-9A36-61AD266C6F82}|AcademiaDoZe.Presentation.AppMaui\\AcademiaDoZe.Presentation.AppMaui.csproj|solutionrelative:academiadoze.presentation.appmaui\\views\\logradouropage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{591F7BC7-54DC-4889-ACC7-7E9A00D6756C}|AcademiaDoZe.Infrastructure\\AcademiaDoZe.Infrastructure.csproj|c:\\users\\es874\\source\\repos\\academiadozeee\\academiadoze.infrastructure\\repositories\\alunorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{591F7BC7-54DC-4889-ACC7-7E9A00D6756C}|AcademiaDoZe.Infrastructure\\AcademiaDoZe.Infrastructure.csproj|solutionrelative:academiadoze.infrastructure\\repositories\\alunorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{591F7BC7-54DC-4889-ACC7-7E9A00D6756C}|AcademiaDoZe.Infrastructure\\AcademiaDoZe.Infrastructure.csproj|c:\\users\\es874\\source\\repos\\academiadozeee\\academiadoze.infrastructure\\repositories\\matricularepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{591F7BC7-54DC-4889-ACC7-7E9A00D6756C}|AcademiaDoZe.Infrastructure\\AcademiaDoZe.Infrastructure.csproj|solutionrelative:academiadoze.infrastructure\\repositories\\matricularepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 310,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MatriculaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\es874\\source\\repos\\AcademiaDoZeee\\AcademiaDoZe.Infrastructure\\Repositories\\MatriculaRepository.cs",
+              "RelativeDocumentMoniker": "AcademiaDoZe.Infrastructure\\Repositories\\MatriculaRepository.cs",
+              "ToolTip": "C:\\Users\\es874\\source\\repos\\AcademiaDoZeee\\AcademiaDoZe.Infrastructure\\Repositories\\MatriculaRepository.cs",
+              "RelativeToolTip": "AcademiaDoZe.Infrastructure\\Repositories\\MatriculaRepository.cs",
+              "ViewState": "AgIAAM4AAAAAAAAAAABBwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T21:47:20.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AlunoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\es874\\source\\repos\\AcademiaDoZeee\\AcademiaDoZe.Infrastructure\\Repositories\\AlunoRepository.cs",
+              "RelativeDocumentMoniker": "AcademiaDoZe.Infrastructure\\Repositories\\AlunoRepository.cs",
+              "ToolTip": "C:\\Users\\es874\\source\\repos\\AcademiaDoZeee\\AcademiaDoZe.Infrastructure\\Repositories\\AlunoRepository.cs",
+              "RelativeToolTip": "AcademiaDoZe.Infrastructure\\Repositories\\AlunoRepository.cs",
+              "ViewState": "AgIAAK8AAAAAAAAAAABBwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T21:45:35.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LogradouroPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\es874\\source\\repos\\AcademiaDoZeee\\AcademiaDoZe.Presentation.AppMaui\\Views\\LogradouroPage.xaml.cs",
+              "RelativeDocumentMoniker": "AcademiaDoZe.Presentation.AppMaui\\Views\\LogradouroPage.xaml.cs",
+              "ToolTip": "C:\\Users\\es874\\source\\repos\\AcademiaDoZeee\\AcademiaDoZe.Presentation.AppMaui\\Views\\LogradouroPage.xaml.cs",
+              "RelativeToolTip": "AcademiaDoZe.Presentation.AppMaui\\Views\\LogradouroPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T03:08:27.442Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 39,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

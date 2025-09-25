@@ -17,55 +17,55 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = AcademiaDoZe.Presentation.AppMaui
-build_property.ProjectDir = C:\Users\es874\Source\Repos\AcademiaZe\AcademiaDoZe.Presentation.AppMaui\
+build_property.ProjectDir = C:\Users\es874\source\repos\AcademiaDoZeee\AcademiaDoZe.Presentation.AppMaui\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.EffectiveAnalysisLevelStyle = 8.0
 build_property.EnableCodeStyleSeverity = 
 
-[C:/Users/es874/Source/Repos/AcademiaZe/AcademiaDoZe.Presentation.AppMaui/App.xaml]
+[C:/Users/es874/source/repos/AcademiaDoZeee/AcademiaDoZe.Presentation.AppMaui/App.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = AcademiaDoZe.Presentation.AppMaui.App.xaml
 build_metadata.AdditionalFiles.TargetPath = App.xaml
 build_metadata.AdditionalFiles.RelativePath = App.xaml
 
-[C:/Users/es874/Source/Repos/AcademiaZe/AcademiaDoZe.Presentation.AppMaui/AppShell.xaml]
+[C:/Users/es874/source/repos/AcademiaDoZeee/AcademiaDoZe.Presentation.AppMaui/AppShell.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = AcademiaDoZe.Presentation.AppMaui.AppShell.xaml
 build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
 build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
 
-[C:/Users/es874/Source/Repos/AcademiaZe/AcademiaDoZe.Presentation.AppMaui/MainPage.xaml]
+[C:/Users/es874/source/repos/AcademiaDoZeee/AcademiaDoZe.Presentation.AppMaui/MainPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = AcademiaDoZe.Presentation.AppMaui.MainPage.xaml
 build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
 build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
 
-[C:/Users/es874/Source/Repos/AcademiaZe/AcademiaDoZe.Presentation.AppMaui/Resources/Styles/Colors.xaml]
+[C:/Users/es874/source/repos/AcademiaDoZeee/AcademiaDoZe.Presentation.AppMaui/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = AcademiaDoZe.Presentation.AppMaui.Resources.Styles.Colors.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
 
-[C:/Users/es874/Source/Repos/AcademiaZe/AcademiaDoZe.Presentation.AppMaui/Resources/Styles/Styles.xaml]
+[C:/Users/es874/source/repos/AcademiaDoZeee/AcademiaDoZe.Presentation.AppMaui/Resources/Styles/Styles.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = AcademiaDoZe.Presentation.AppMaui.Resources.Styles.Styles.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
 
-[C:/Users/es874/Source/Repos/AcademiaZe/AcademiaDoZe.Presentation.AppMaui/Views/DashboardListPage.xaml]
+[C:/Users/es874/source/repos/AcademiaDoZeee/AcademiaDoZe.Presentation.AppMaui/Views/DashboardListPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = AcademiaDoZe.Presentation.AppMaui.Views.DashboardListPage.xaml
 build_metadata.AdditionalFiles.TargetPath = Views\DashboardListPage.xaml
 build_metadata.AdditionalFiles.RelativePath = Views\DashboardListPage.xaml
 
-[C:/Users/es874/Source/Repos/AcademiaZe/AcademiaDoZe.Presentation.AppMaui/Views/LogradouroListPage.xaml]
+[C:/Users/es874/source/repos/AcademiaDoZeee/AcademiaDoZe.Presentation.AppMaui/Views/LogradouroListPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = AcademiaDoZe.Presentation.AppMaui.Views.LogradouroListPage.xaml
 build_metadata.AdditionalFiles.TargetPath = Views\LogradouroListPage.xaml
 build_metadata.AdditionalFiles.RelativePath = Views\LogradouroListPage.xaml
 
-[C:/Users/es874/Source/Repos/AcademiaZe/AcademiaDoZe.Presentation.AppMaui/Views/LogradouroPage.xaml]
+[C:/Users/es874/source/repos/AcademiaDoZeee/AcademiaDoZe.Presentation.AppMaui/Views/LogradouroPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = AcademiaDoZe.Presentation.AppMaui.Views.LogradouroPage.xaml
 build_metadata.AdditionalFiles.TargetPath = Views\LogradouroPage.xaml
