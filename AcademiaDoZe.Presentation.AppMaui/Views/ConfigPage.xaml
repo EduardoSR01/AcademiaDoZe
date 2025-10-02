@@ -29,7 +29,9 @@ Title="Configurações">
                     </Grid>
                 </StackLayout>
             </Border>
+
             <!-- Credenciais do Banco -->
+
             <Border Style="{StaticResource CardBorder}" Margin="15,10">
 
                 <StackLayout Spacing="15">

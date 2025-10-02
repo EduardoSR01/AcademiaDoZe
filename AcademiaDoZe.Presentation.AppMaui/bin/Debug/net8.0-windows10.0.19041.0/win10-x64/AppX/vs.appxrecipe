@@ -30,7 +30,7 @@
     <AppXManifest Include="C:\Users\es874\source\repos\AcademiaDoZeee\AcademiaDoZe.Presentation.AppMaui\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2025-10-02T21:14:13.209</Modified>
+      <Modified>2025-10-02T21:30:00.645</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
@@ -44,11 +44,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\es874\source\repos\AcademiaDoZeee\AcademiaDoZe.Presentation.AppMaui\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AcademiaDoZe.Presentation.AppMaui.dll">
       <PackagePath>AcademiaDoZe.Presentation.AppMaui.dll</PackagePath>
-      <Modified>2025-10-02T21:14:10.831</Modified>
+      <Modified>2025-10-02T21:29:59.081</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\es874\source\repos\AcademiaDoZeee\AcademiaDoZe.Presentation.AppMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>AcademiaDoZe.Presentation.AppMaui.exe</PackagePath>
-      <Modified>2025-10-02T21:14:10.884</Modified>
+      <Modified>2025-10-02T21:29:59.131</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\es874\source\repos\AcademiaDoZeee\AcademiaDoZe.Presentation.AppMaui\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>

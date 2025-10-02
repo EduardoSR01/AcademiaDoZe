@@ -1,7 +1,52 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\es874\\source\\repos\\AcademiaDoZeee\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\es874\\source\\repos\\AcademiaDoZeee\\AcademiaDoZe.Presentation.AppMaui\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AcademiaDoZe.Presentation.AppMaui\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09E9BBB-60AC-4407-9A36-61AD266C6F82}|AcademiaDoZe.Presentation.AppMaui\\AcademiaDoZe.Presentation.AppMaui.csproj|c:\\users\\es874\\source\\repos\\academiadozeee\\academiadoze.presentation.appmaui\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A09E9BBB-60AC-4407-9A36-61AD266C6F82}|AcademiaDoZe.Presentation.AppMaui\\AcademiaDoZe.Presentation.AppMaui.csproj|solutionrelative:academiadoze.presentation.appmaui\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09E9BBB-60AC-4407-9A36-61AD266C6F82}|AcademiaDoZe.Presentation.AppMaui\\AcademiaDoZe.Presentation.AppMaui.csproj|c:\\users\\es874\\source\\repos\\academiadozeee\\academiadoze.presentation.appmaui\\configuration\\configurationhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A09E9BBB-60AC-4407-9A36-61AD266C6F82}|AcademiaDoZe.Presentation.AppMaui\\AcademiaDoZe.Presentation.AppMaui.csproj|solutionrelative:academiadoze.presentation.appmaui\\configuration\\configurationhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09E9BBB-60AC-4407-9A36-61AD266C6F82}|AcademiaDoZe.Presentation.AppMaui\\AcademiaDoZe.Presentation.AppMaui.csproj|c:\\users\\es874\\source\\repos\\academiadozeee\\academiadoze.presentation.appmaui\\views\\configpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A09E9BBB-60AC-4407-9A36-61AD266C6F82}|AcademiaDoZe.Presentation.AppMaui\\AcademiaDoZe.Presentation.AppMaui.csproj|solutionrelative:academiadoze.presentation.appmaui\\views\\configpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09E9BBB-60AC-4407-9A36-61AD266C6F82}|AcademiaDoZe.Presentation.AppMaui\\AcademiaDoZe.Presentation.AppMaui.csproj|c:\\users\\es874\\source\\repos\\academiadozeee\\academiadoze.presentation.appmaui\\views\\configpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A09E9BBB-60AC-4407-9A36-61AD266C6F82}|AcademiaDoZe.Presentation.AppMaui\\AcademiaDoZe.Presentation.AppMaui.csproj|solutionrelative:academiadoze.presentation.appmaui\\views\\configpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09E9BBB-60AC-4407-9A36-61AD266C6F82}|AcademiaDoZe.Presentation.AppMaui\\AcademiaDoZe.Presentation.AppMaui.csproj|c:\\users\\es874\\source\\repos\\academiadozeee\\academiadoze.presentation.appmaui\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A09E9BBB-60AC-4407-9A36-61AD266C6F82}|AcademiaDoZe.Presentation.AppMaui\\AcademiaDoZe.Presentation.AppMaui.csproj|solutionrelative:academiadoze.presentation.appmaui\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09E9BBB-60AC-4407-9A36-61AD266C6F82}|AcademiaDoZe.Presentation.AppMaui\\AcademiaDoZe.Presentation.AppMaui.csproj|c:\\users\\es874\\source\\repos\\academiadozeee\\academiadoze.presentation.appmaui\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A09E9BBB-60AC-4407-9A36-61AD266C6F82}|AcademiaDoZe.Presentation.AppMaui\\AcademiaDoZe.Presentation.AppMaui.csproj|solutionrelative:academiadoze.presentation.appmaui\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09E9BBB-60AC-4407-9A36-61AD266C6F82}|AcademiaDoZe.Presentation.AppMaui\\AcademiaDoZe.Presentation.AppMaui.csproj|c:\\users\\es874\\source\\repos\\academiadozeee\\academiadoze.presentation.appmaui\\message\\temapreferencesupdatedmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A09E9BBB-60AC-4407-9A36-61AD266C6F82}|AcademiaDoZe.Presentation.AppMaui\\AcademiaDoZe.Presentation.AppMaui.csproj|solutionrelative:academiadoze.presentation.appmaui\\message\\temapreferencesupdatedmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09E9BBB-60AC-4407-9A36-61AD266C6F82}|AcademiaDoZe.Presentation.AppMaui\\AcademiaDoZe.Presentation.AppMaui.csproj|c:\\users\\es874\\source\\repos\\academiadozeee\\academiadoze.presentation.appmaui\\message\\bancopreferencesupdatedmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A09E9BBB-60AC-4407-9A36-61AD266C6F82}|AcademiaDoZe.Presentation.AppMaui\\AcademiaDoZe.Presentation.AppMaui.csproj|solutionrelative:academiadoze.presentation.appmaui\\message\\bancopreferencesupdatedmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09E9BBB-60AC-4407-9A36-61AD266C6F82}|AcademiaDoZe.Presentation.AppMaui\\AcademiaDoZe.Presentation.AppMaui.csproj|c:\\users\\es874\\source\\repos\\academiadozeee\\academiadoze.presentation.appmaui\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A09E9BBB-60AC-4407-9A36-61AD266C6F82}|AcademiaDoZe.Presentation.AppMaui\\AcademiaDoZe.Presentation.AppMaui.csproj|solutionrelative:academiadoze.presentation.appmaui\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09E9BBB-60AC-4407-9A36-61AD266C6F82}|AcademiaDoZe.Presentation.AppMaui\\AcademiaDoZe.Presentation.AppMaui.csproj|c:\\users\\es874\\source\\repos\\academiadozeee\\academiadoze.presentation.appmaui\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A09E9BBB-60AC-4407-9A36-61AD266C6F82}|AcademiaDoZe.Presentation.AppMaui\\AcademiaDoZe.Presentation.AppMaui.csproj|solutionrelative:academiadoze.presentation.appmaui\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 310,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -18,6 +63,139 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\es874\\source\\repos\\AcademiaDoZeee\\AcademiaDoZe.Presentation.AppMaui\\AppShell.xaml",
+              "RelativeDocumentMoniker": "AcademiaDoZe.Presentation.AppMaui\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\es874\\source\\repos\\AcademiaDoZeee\\AcademiaDoZe.Presentation.AppMaui\\AppShell.xaml",
+              "RelativeToolTip": "AcademiaDoZe.Presentation.AppMaui\\AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-02T21:24:41.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TemaPreferencesUpdatedMessage.cs",
+              "DocumentMoniker": "C:\\Users\\es874\\source\\repos\\AcademiaDoZeee\\AcademiaDoZe.Presentation.AppMaui\\Message\\TemaPreferencesUpdatedMessage.cs",
+              "RelativeDocumentMoniker": "AcademiaDoZe.Presentation.AppMaui\\Message\\TemaPreferencesUpdatedMessage.cs",
+              "ToolTip": "C:\\Users\\es874\\source\\repos\\AcademiaDoZeee\\AcademiaDoZe.Presentation.AppMaui\\Message\\TemaPreferencesUpdatedMessage.cs",
+              "RelativeToolTip": "AcademiaDoZe.Presentation.AppMaui\\Message\\TemaPreferencesUpdatedMessage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T21:23:45.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BancoPreferencesUpdatedMessage.cs",
+              "DocumentMoniker": "C:\\Users\\es874\\source\\repos\\AcademiaDoZeee\\AcademiaDoZe.Presentation.AppMaui\\Message\\BancoPreferencesUpdatedMessage.cs",
+              "RelativeDocumentMoniker": "AcademiaDoZe.Presentation.AppMaui\\Message\\BancoPreferencesUpdatedMessage.cs",
+              "ToolTip": "C:\\Users\\es874\\source\\repos\\AcademiaDoZeee\\AcademiaDoZe.Presentation.AppMaui\\Message\\BancoPreferencesUpdatedMessage.cs",
+              "RelativeToolTip": "AcademiaDoZe.Presentation.AppMaui\\Message\\BancoPreferencesUpdatedMessage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T21:23:43.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.g.i.cs",
+              "DocumentMoniker": "C:\\Users\\es874\\source\\repos\\AcademiaDoZeee\\AcademiaDoZe.Presentation.AppMaui\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "RelativeDocumentMoniker": "AcademiaDoZe.Presentation.AppMaui\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "ToolTip": "C:\\Users\\es874\\source\\repos\\AcademiaDoZeee\\AcademiaDoZe.Presentation.AppMaui\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "RelativeToolTip": "AcademiaDoZe.Presentation.AppMaui\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAApwE0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T21:19:25.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConfigPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\es874\\source\\repos\\AcademiaDoZeee\\AcademiaDoZe.Presentation.AppMaui\\Views\\ConfigPage.xaml.cs",
+              "RelativeDocumentMoniker": "AcademiaDoZe.Presentation.AppMaui\\Views\\ConfigPage.xaml.cs",
+              "ToolTip": "C:\\Users\\es874\\source\\repos\\AcademiaDoZeee\\AcademiaDoZe.Presentation.AppMaui\\Views\\ConfigPage.xaml.cs",
+              "RelativeToolTip": "AcademiaDoZe.Presentation.AppMaui\\Views\\ConfigPage.xaml.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAmwDcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T21:16:08.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\es874\\source\\repos\\AcademiaDoZeee\\AcademiaDoZe.Presentation.AppMaui\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "AcademiaDoZe.Presentation.AppMaui\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\es874\\source\\repos\\AcademiaDoZeee\\AcademiaDoZe.Presentation.AppMaui\\MauiProgram.cs",
+              "RelativeToolTip": "AcademiaDoZe.Presentation.AppMaui\\MauiProgram.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwB8AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T21:15:17.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\es874\\source\\repos\\AcademiaDoZeee\\AcademiaDoZe.Presentation.AppMaui\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "AcademiaDoZe.Presentation.AppMaui\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\es874\\source\\repos\\AcademiaDoZeee\\AcademiaDoZe.Presentation.AppMaui\\MainPage.xaml.cs",
+              "RelativeToolTip": "AcademiaDoZe.Presentation.AppMaui\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T21:15:07.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\es874\\source\\repos\\AcademiaDoZeee\\AcademiaDoZe.Presentation.AppMaui\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "AcademiaDoZe.Presentation.AppMaui\\AppShell.xaml.cs",
+              "ToolTip": "C:\\Users\\es874\\source\\repos\\AcademiaDoZeee\\AcademiaDoZe.Presentation.AppMaui\\AppShell.xaml.cs",
+              "RelativeToolTip": "AcademiaDoZe.Presentation.AppMaui\\AppShell.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T21:15:03.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\es874\\source\\repos\\AcademiaDoZeee\\AcademiaDoZe.Presentation.AppMaui\\App.xaml.cs",
+              "RelativeDocumentMoniker": "AcademiaDoZe.Presentation.AppMaui\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\es874\\source\\repos\\AcademiaDoZeee\\AcademiaDoZe.Presentation.AppMaui\\App.xaml.cs",
+              "RelativeToolTip": "AcademiaDoZe.Presentation.AppMaui\\App.xaml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T21:15:00.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConfigurationHelper.cs",
+              "DocumentMoniker": "C:\\Users\\es874\\source\\repos\\AcademiaDoZeee\\AcademiaDoZe.Presentation.AppMaui\\Configuration\\ConfigurationHelper.cs",
+              "RelativeDocumentMoniker": "AcademiaDoZe.Presentation.AppMaui\\Configuration\\ConfigurationHelper.cs",
+              "ToolTip": "C:\\Users\\es874\\source\\repos\\AcademiaDoZeee\\AcademiaDoZe.Presentation.AppMaui\\Configuration\\ConfigurationHelper.cs",
+              "RelativeToolTip": "AcademiaDoZe.Presentation.AppMaui\\Configuration\\ConfigurationHelper.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAzwAsAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T21:14:46.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ConfigPage.xaml",
+              "DocumentMoniker": "C:\\Users\\es874\\source\\repos\\AcademiaDoZeee\\AcademiaDoZe.Presentation.AppMaui\\Views\\ConfigPage.xaml",
+              "RelativeDocumentMoniker": "AcademiaDoZe.Presentation.AppMaui\\Views\\ConfigPage.xaml",
+              "ToolTip": "C:\\Users\\es874\\source\\repos\\AcademiaDoZeee\\AcademiaDoZe.Presentation.AppMaui\\Views\\ConfigPage.xaml",
+              "RelativeToolTip": "AcademiaDoZe.Presentation.AppMaui\\Views\\ConfigPage.xaml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAqwE0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-02T21:14:38.377Z"
             }
           ]
         },
