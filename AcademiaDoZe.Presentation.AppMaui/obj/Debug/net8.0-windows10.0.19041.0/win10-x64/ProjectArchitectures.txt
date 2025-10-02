@@ -1,1 +1,1 @@
-C:\Users\es874\Source\Repos\AcademiaZe\AcademiaDoZe.Presentation.AppMaui\AcademiaDoZe.Presentation.AppMaui.csproj;x64
+C:\Users\es874\source\repos\AcademiaDoZeee\AcademiaDoZe.Presentation.AppMaui\AcademiaDoZe.Presentation.AppMaui.csproj;x64
