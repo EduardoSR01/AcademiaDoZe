@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AcademiaDoZe.Application.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+75a724a37736ab2be0ea3773b94e17741da9e214")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5339d435a1dfe243c8077ca76afdf370f2628802")]
 [assembly: System.Reflection.AssemblyProductAttribute("AcademiaDoZe.Application.Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AcademiaDoZe.Application.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

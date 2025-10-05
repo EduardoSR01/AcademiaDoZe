@@ -7,7 +7,11 @@
         <ScrollView>
             <StackLayout Padding="20" Spacing="20">
                 <StackLayout Spacing="10" Margin="0,0,0,10" HorizontalOptions="Center">
-                    <Image Source="academiadoze.png" HeightRequest="200" WidthRequest="200"/>
+                    <Image HeightRequest="200" WidthRequest="200" HorizontalOptions="Center" VerticalOptions="Start">
+                        <Image.Source>
+                            <AppThemeBinding Light="academiadoze_claro.png" Dark="academiadoze_escuro.png" />
+                        </Image.Source>
+                    </Image>
                     <Label Text="Academia do Zé" FontSize="28" FontAttributes="Bold" HorizontalTextAlignment="Center"/>
                     <Label Text="Sistema de Gerenciamento" FontSize="18" HorizontalTextAlignment="Center" TextColor="Gray"/>
                 </StackLayout>
@@ -23,7 +27,7 @@
                             <TapGestureRecognizer Command="{Binding NavigateToLogradourosCommand}"/>
                         </Frame.GestureRecognizers>
                         <StackLayout Spacing="5" HorizontalOptions="Center">
-                            <Image Source="icon_logradouro.png" HeightRequest="30"/>
+                            <Label FontFamily="MaterialIcons" Text="&#xe7f1;" Style="{StaticResource SubHeadline}" HorizontalTextAlignment="Center" />
                             <Label Text="{Binding TotalLogradouros}" FontSize="20" FontAttributes="Bold" HorizontalTextAlignment="Center"/>
                             <Label Text="Logradouros" HorizontalTextAlignment="Center"/>
                         </StackLayout>
@@ -39,7 +43,7 @@
                             <TapGestureRecognizer Command="{Binding NavigateToAlunosCommand}"/>
                         </Frame.GestureRecognizers>
                         <StackLayout Spacing="5" HorizontalOptions="Center">
-                            <Image Source="icon_aluno.png" HeightRequest="30"/>
+                            <Label FontFamily="MaterialIcons" Text="&#xe7fd;" Style="{StaticResource SubHeadline}" HorizontalTextAlignment="Center" />
                             <Label Text="{Binding TotalAlunos}" FontSize="20" FontAttributes="Bold" HorizontalTextAlignment="Center"/>
                             <Label Text="Alunos" HorizontalTextAlignment="Center"/>
                         </StackLayout>
@@ -55,7 +59,7 @@
                             <TapGestureRecognizer Command="{Binding NavigateToColaboradoresCommand}"/>
                         </Frame.GestureRecognizers>
                         <StackLayout Spacing="5" HorizontalOptions="Center">
-                            <Image Source="icon_colaborador.png" HeightRequest="30"/>
+                            <Label FontFamily="MaterialIcons" Text="&#xea3d;" Style="{StaticResource SubHeadline}" HorizontalTextAlignment="Center" />
                             <Label Text="{Binding TotalColaboradores}" FontSize="20" FontAttributes="Bold" HorizontalTextAlignment="Center"/>
                             <Label Text="Colaboradores" HorizontalTextAlignment="Center"/>
                         </StackLayout>
@@ -71,7 +75,7 @@
                             <TapGestureRecognizer Command="{Binding NavigateToMatriculasCommand}"/>
                         </Frame.GestureRecognizers>
                         <StackLayout Spacing="5" HorizontalOptions="Center">
-                            <Image Source="icon_matricula.png" HeightRequest="30"/>
+                            <Label FontFamily="MaterialIcons" Text="&#xef42;" Style="{StaticResource SubHeadline}" HorizontalTextAlignment="Center" />
                             <Label Text="{Binding TotalMatriculas}" FontSize="20" FontAttributes="Bold" HorizontalTextAlignment="Center"/>
                             <Label Text="Matrículas" HorizontalTextAlignment="Center"/>
                         </StackLayout>

@@ -33,11 +33,11 @@ namespace AcademiaDoZe.Presentation.AppMaui.Configuration
         {
             // dados conexão
 
-            string dbServer = Preferences.Get("Servidor", ""); // "localhost"
-            string dbDatabase = Preferences.Get("Banco", ""); // "db_academia_do_ze"
-            string dbUser = Preferences.Get("Usuario", ""); // "sa"
-            string dbPassword = Preferences.Get("Senha", ""); // "abcBolinhas12345"
-            string dbComplemento = Preferences.Get("Complemento", ""); // "TrustServerCertificate=True;Encrypt=True;"
+            string dbServer = Preferences.Get("Servidor", "192.168.163.17"); // "localhost"
+            string dbDatabase = Preferences.Get("Banco", "db_academia_do_ze"); // "db_academia_do_ze"
+            string dbUser = Preferences.Get("Usuario", "sa"); // "sa"
+            string dbPassword = Preferences.Get("Senha", "abcBolinhas12345"); // "abcBolinhas12345"
+            string dbComplemento = Preferences.Get("Complemento", "TrustServerCertificate=True;Encrypt=True;"); // "TrustServerCertificate=True;Encrypt=True;"
                                                                        // Configurações de conexão
 
             string connectionString = $"Server={dbServer};Database={dbDatabase};User Id={dbUser};Password={dbPassword};{dbComplemento}";

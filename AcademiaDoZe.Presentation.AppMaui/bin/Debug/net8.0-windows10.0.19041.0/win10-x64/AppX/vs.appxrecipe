@@ -19,7 +19,7 @@
     <WindowsSdkPath>
     </WindowsSdkPath>
     <LayoutDir>C:\Users\es874\source\repos\AcademiaDoZeee\AcademiaDoZe.Presentation.AppMaui\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppX</LayoutDir>
-    <RegisteredManifestChecksum>ED224D9848532BF8787F72C6BB18D666D969CF8D7DEC6DC6E25A72C25C4A3C09</RegisteredManifestChecksum>
+    <RegisteredManifestChecksum>3AFFF63126340758C10600CDB883623C35BA2324C6534B8B98F1A6931DDC44DD</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>com.companyname.academiadoze.presentation.appmaui_1.0.0.1_x64__9zz4h110yvjzm</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>com.companyname.academiadoze.presentation.appmaui_9zz4h110yvjzm!App</RegisteredUserModeAppID>
     <RegisteredPackageID>com.companyname.academiadoze.presentation.appmaui</RegisteredPackageID>
@@ -30,13 +30,13 @@
     <AppXManifest Include="C:\Users\es874\source\repos\AcademiaDoZeee\AcademiaDoZe.Presentation.AppMaui\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2025-10-02T21:30:00.645</Modified>
+      <Modified>2025-10-05T23:08:13.246</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\es874\source\repos\AcademiaDoZeee\AcademiaDoZe.Presentation.AppMaui\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2025-10-02T21:14:12.956</Modified>
+      <Modified>2025-10-05T23:08:12.927</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\es874\source\repos\AcademiaDoZeee\AcademiaDoZe.Presentation.AppMaui\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AcademiaDoZe.Presentation.AppMaui.runtimeconfig.json">
       <PackagePath>AcademiaDoZe.Presentation.AppMaui.runtimeconfig.json</PackagePath>
@@ -44,11 +44,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\es874\source\repos\AcademiaDoZeee\AcademiaDoZe.Presentation.AppMaui\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AcademiaDoZe.Presentation.AppMaui.dll">
       <PackagePath>AcademiaDoZe.Presentation.AppMaui.dll</PackagePath>
-      <Modified>2025-10-02T21:29:59.081</Modified>
+      <Modified>2025-10-05T23:08:10.642</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\es874\source\repos\AcademiaDoZeee\AcademiaDoZe.Presentation.AppMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>AcademiaDoZe.Presentation.AppMaui.exe</PackagePath>
-      <Modified>2025-10-02T21:29:59.131</Modified>
+      <Modified>2025-10-05T23:08:10.715</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\es874\source\repos\AcademiaDoZeee\AcademiaDoZe.Presentation.AppMaui\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
@@ -74,6 +74,10 @@
       <PackagePath>splashSplashScreen.scale-400.png</PackagePath>
       <Modified>2025-10-01T23:16:26.957</Modified>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\es874\source\repos\AcademiaDoZeee\AcademiaDoZe.Presentation.AppMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\MaterialIcons-Regular.ttf">
+      <PackagePath>MaterialIcons-Regular.ttf</PackagePath>
+      <Modified>2025-10-02T22:47:15.495</Modified>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\es874\source\repos\AcademiaDoZeee\AcademiaDoZe.Presentation.AppMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
       <PackagePath>OpenSans-Regular.ttf</PackagePath>
       <Modified>2025-09-14T23:32:47.787</Modified>
@@ -84,215 +88,223 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\es874\source\repos\AcademiaDoZeee\AcademiaDoZe.Presentation.AppMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\academiadoze.scale-100.png">
       <PackagePath>academiadoze.scale-100.png</PackagePath>
-      <Modified>2025-10-01T23:16:27.646</Modified>
+      <Modified>2025-10-05T22:52:54.162</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\es874\source\repos\AcademiaDoZeee\AcademiaDoZe.Presentation.AppMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\academiadoze_claro.scale-100.png">
+      <PackagePath>academiadoze_claro.scale-100.png</PackagePath>
+      <Modified>2025-10-05T22:52:54.162</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\es874\source\repos\AcademiaDoZeee\AcademiaDoZe.Presentation.AppMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\academiadoze_escuro.scale-100.png">
+      <PackagePath>academiadoze_escuro.scale-100.png</PackagePath>
+      <Modified>2025-10-05T22:52:54.163</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\es874\source\repos\AcademiaDoZeee\AcademiaDoZe.Presentation.AppMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
       <PackagePath>appicon.ico</PackagePath>
-      <Modified>2025-10-01T23:16:27.662</Modified>
+      <Modified>2025-10-05T22:52:54.174</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\es874\source\repos\AcademiaDoZeee\AcademiaDoZe.Presentation.AppMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
       <PackagePath>appiconLargeTile.scale-100.png</PackagePath>
-      <Modified>2025-10-01T23:16:27.647</Modified>
+      <Modified>2025-10-05T22:52:54.165</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\es874\source\repos\AcademiaDoZeee\AcademiaDoZe.Presentation.AppMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
       <PackagePath>appiconLargeTile.scale-125.png</PackagePath>
-      <Modified>2025-10-01T23:16:27.647</Modified>
+      <Modified>2025-10-05T22:52:54.165</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\es874\source\repos\AcademiaDoZeee\AcademiaDoZe.Presentation.AppMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
       <PackagePath>appiconLargeTile.scale-150.png</PackagePath>
-      <Modified>2025-10-01T23:16:27.647</Modified>
+      <Modified>2025-10-05T22:52:54.165</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\es874\source\repos\AcademiaDoZeee\AcademiaDoZe.Presentation.AppMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
       <PackagePath>appiconLargeTile.scale-200.png</PackagePath>
-      <Modified>2025-10-01T23:16:27.647</Modified>
+      <Modified>2025-10-05T22:52:54.164</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\es874\source\repos\AcademiaDoZeee\AcademiaDoZe.Presentation.AppMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
       <PackagePath>appiconLargeTile.scale-400.png</PackagePath>
-      <Modified>2025-10-01T23:16:27.647</Modified>
+      <Modified>2025-10-05T22:52:54.164</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\es874\source\repos\AcademiaDoZeee\AcademiaDoZe.Presentation.AppMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-16.png</PackagePath>
-      <Modified>2025-10-01T23:16:27.656</Modified>
+      <Modified>2025-10-05T22:52:54.171</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\es874\source\repos\AcademiaDoZeee\AcademiaDoZe.Presentation.AppMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-24.png</PackagePath>
-      <Modified>2025-10-01T23:16:27.656</Modified>
+      <Modified>2025-10-05T22:52:54.171</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\es874\source\repos\AcademiaDoZeee\AcademiaDoZe.Presentation.AppMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-256.png</PackagePath>
-      <Modified>2025-10-01T23:16:27.655</Modified>
+      <Modified>2025-10-05T22:52:54.170</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\es874\source\repos\AcademiaDoZeee\AcademiaDoZe.Presentation.AppMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-32.png</PackagePath>
-      <Modified>2025-10-01T23:16:27.656</Modified>
+      <Modified>2025-10-05T22:52:54.171</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\es874\source\repos\AcademiaDoZeee\AcademiaDoZe.Presentation.AppMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-48.png</PackagePath>
-      <Modified>2025-10-01T23:16:27.655</Modified>
+      <Modified>2025-10-05T22:52:54.170</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\es874\source\repos\AcademiaDoZeee\AcademiaDoZe.Presentation.AppMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-16.png</PackagePath>
-      <Modified>2025-10-01T23:16:27.658</Modified>
+      <Modified>2025-10-05T22:52:54.172</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\es874\source\repos\AcademiaDoZeee\AcademiaDoZe.Presentation.AppMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-24.png</PackagePath>
-      <Modified>2025-10-01T23:16:27.658</Modified>
+      <Modified>2025-10-05T22:52:54.172</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\es874\source\repos\AcademiaDoZeee\AcademiaDoZe.Presentation.AppMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-256.png</PackagePath>
-      <Modified>2025-10-01T23:16:27.657</Modified>
+      <Modified>2025-10-05T22:52:54.171</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\es874\source\repos\AcademiaDoZeee\AcademiaDoZe.Presentation.AppMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-32.png</PackagePath>
-      <Modified>2025-10-01T23:16:27.657</Modified>
+      <Modified>2025-10-05T22:52:54.172</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\es874\source\repos\AcademiaDoZeee\AcademiaDoZe.Presentation.AppMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-48.png</PackagePath>
-      <Modified>2025-10-01T23:16:27.657</Modified>
+      <Modified>2025-10-05T22:52:54.172</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\es874\source\repos\AcademiaDoZeee\AcademiaDoZe.Presentation.AppMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
       <PackagePath>appiconLogo.scale-100.png</PackagePath>
-      <Modified>2025-10-01T23:16:27.662</Modified>
+      <Modified>2025-10-05T22:52:54.174</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\es874\source\repos\AcademiaDoZeee\AcademiaDoZe.Presentation.AppMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
       <PackagePath>appiconLogo.scale-125.png</PackagePath>
-      <Modified>2025-10-01T23:16:27.660</Modified>
+      <Modified>2025-10-05T22:52:54.174</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\es874\source\repos\AcademiaDoZeee\AcademiaDoZe.Presentation.AppMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
       <PackagePath>appiconLogo.scale-150.png</PackagePath>
-      <Modified>2025-10-01T23:16:27.660</Modified>
+      <Modified>2025-10-05T22:52:54.174</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\es874\source\repos\AcademiaDoZeee\AcademiaDoZe.Presentation.AppMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
       <PackagePath>appiconLogo.scale-200.png</PackagePath>
-      <Modified>2025-10-01T23:16:27.660</Modified>
+      <Modified>2025-10-05T22:52:54.174</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\es874\source\repos\AcademiaDoZeee\AcademiaDoZe.Presentation.AppMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
       <PackagePath>appiconLogo.scale-400.png</PackagePath>
-      <Modified>2025-10-01T23:16:27.660</Modified>
+      <Modified>2025-10-05T22:52:54.174</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\es874\source\repos\AcademiaDoZeee\AcademiaDoZe.Presentation.AppMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
       <PackagePath>appiconLogo.targetsize-16.png</PackagePath>
-      <Modified>2025-10-01T23:16:27.660</Modified>
+      <Modified>2025-10-05T22:52:54.174</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\es874\source\repos\AcademiaDoZeee\AcademiaDoZe.Presentation.AppMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
       <PackagePath>appiconLogo.targetsize-24.png</PackagePath>
-      <Modified>2025-10-01T23:16:27.660</Modified>
+      <Modified>2025-10-05T22:52:54.173</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\es874\source\repos\AcademiaDoZeee\AcademiaDoZe.Presentation.AppMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
       <PackagePath>appiconLogo.targetsize-256.png</PackagePath>
-      <Modified>2025-10-01T23:16:27.658</Modified>
+      <Modified>2025-10-05T22:52:54.173</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\es874\source\repos\AcademiaDoZeee\AcademiaDoZe.Presentation.AppMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
       <PackagePath>appiconLogo.targetsize-32.png</PackagePath>
-      <Modified>2025-10-01T23:16:27.660</Modified>
+      <Modified>2025-10-05T22:52:54.173</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\es874\source\repos\AcademiaDoZeee\AcademiaDoZe.Presentation.AppMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
       <PackagePath>appiconLogo.targetsize-48.png</PackagePath>
-      <Modified>2025-10-01T23:16:27.658</Modified>
+      <Modified>2025-10-05T22:52:54.173</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\es874\source\repos\AcademiaDoZeee\AcademiaDoZe.Presentation.AppMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
       <PackagePath>appiconMediumTile.scale-100.png</PackagePath>
-      <Modified>2025-10-01T23:16:27.650</Modified>
+      <Modified>2025-10-05T22:52:54.167</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\es874\source\repos\AcademiaDoZeee\AcademiaDoZe.Presentation.AppMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
       <PackagePath>appiconMediumTile.scale-125.png</PackagePath>
-      <Modified>2025-10-01T23:16:27.650</Modified>
+      <Modified>2025-10-05T22:52:54.167</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\es874\source\repos\AcademiaDoZeee\AcademiaDoZe.Presentation.AppMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
       <PackagePath>appiconMediumTile.scale-150.png</PackagePath>
-      <Modified>2025-10-01T23:16:27.650</Modified>
+      <Modified>2025-10-05T22:52:54.167</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\es874\source\repos\AcademiaDoZeee\AcademiaDoZe.Presentation.AppMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
       <PackagePath>appiconMediumTile.scale-200.png</PackagePath>
-      <Modified>2025-10-01T23:16:27.649</Modified>
+      <Modified>2025-10-05T22:52:54.166</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\es874\source\repos\AcademiaDoZeee\AcademiaDoZe.Presentation.AppMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
       <PackagePath>appiconMediumTile.scale-400.png</PackagePath>
-      <Modified>2025-10-01T23:16:27.649</Modified>
+      <Modified>2025-10-05T22:52:54.166</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\es874\source\repos\AcademiaDoZeee\AcademiaDoZe.Presentation.AppMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
       <PackagePath>appiconSmallTile.scale-100.png</PackagePath>
-      <Modified>2025-10-01T23:16:27.652</Modified>
+      <Modified>2025-10-05T22:52:54.168</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\es874\source\repos\AcademiaDoZeee\AcademiaDoZe.Presentation.AppMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
       <PackagePath>appiconSmallTile.scale-125.png</PackagePath>
-      <Modified>2025-10-01T23:16:27.652</Modified>
+      <Modified>2025-10-05T22:52:54.168</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\es874\source\repos\AcademiaDoZeee\AcademiaDoZe.Presentation.AppMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
       <PackagePath>appiconSmallTile.scale-150.png</PackagePath>
-      <Modified>2025-10-01T23:16:27.652</Modified>
+      <Modified>2025-10-05T22:52:54.168</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\es874\source\repos\AcademiaDoZeee\AcademiaDoZe.Presentation.AppMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
       <PackagePath>appiconSmallTile.scale-200.png</PackagePath>
-      <Modified>2025-10-01T23:16:27.652</Modified>
+      <Modified>2025-10-05T22:52:54.168</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\es874\source\repos\AcademiaDoZeee\AcademiaDoZe.Presentation.AppMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
       <PackagePath>appiconSmallTile.scale-400.png</PackagePath>
-      <Modified>2025-10-01T23:16:27.650</Modified>
+      <Modified>2025-10-05T22:52:54.167</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\es874\source\repos\AcademiaDoZeee\AcademiaDoZe.Presentation.AppMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
       <PackagePath>appiconStoreLogo.scale-100.png</PackagePath>
-      <Modified>2025-10-01T23:16:27.654</Modified>
+      <Modified>2025-10-05T22:52:54.170</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\es874\source\repos\AcademiaDoZeee\AcademiaDoZe.Presentation.AppMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
       <PackagePath>appiconStoreLogo.scale-125.png</PackagePath>
-      <Modified>2025-10-01T23:16:27.654</Modified>
+      <Modified>2025-10-05T22:52:54.170</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\es874\source\repos\AcademiaDoZeee\AcademiaDoZe.Presentation.AppMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
       <PackagePath>appiconStoreLogo.scale-150.png</PackagePath>
-      <Modified>2025-10-01T23:16:27.654</Modified>
+      <Modified>2025-10-05T22:52:54.168</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\es874\source\repos\AcademiaDoZeee\AcademiaDoZe.Presentation.AppMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
       <PackagePath>appiconStoreLogo.scale-200.png</PackagePath>
-      <Modified>2025-10-01T23:16:27.654</Modified>
+      <Modified>2025-10-05T22:52:54.168</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\es874\source\repos\AcademiaDoZeee\AcademiaDoZe.Presentation.AppMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
       <PackagePath>appiconStoreLogo.scale-400.png</PackagePath>
-      <Modified>2025-10-01T23:16:27.652</Modified>
+      <Modified>2025-10-05T22:52:54.168</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\es874\source\repos\AcademiaDoZeee\AcademiaDoZe.Presentation.AppMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
       <PackagePath>appiconWideTile.scale-100.png</PackagePath>
-      <Modified>2025-10-01T23:16:27.649</Modified>
+      <Modified>2025-10-05T22:52:54.166</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\es874\source\repos\AcademiaDoZeee\AcademiaDoZe.Presentation.AppMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
       <PackagePath>appiconWideTile.scale-125.png</PackagePath>
-      <Modified>2025-10-01T23:16:27.649</Modified>
+      <Modified>2025-10-05T22:52:54.166</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\es874\source\repos\AcademiaDoZeee\AcademiaDoZe.Presentation.AppMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
       <PackagePath>appiconWideTile.scale-150.png</PackagePath>
-      <Modified>2025-10-01T23:16:27.648</Modified>
+      <Modified>2025-10-05T22:52:54.165</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\es874\source\repos\AcademiaDoZeee\AcademiaDoZe.Presentation.AppMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
       <PackagePath>appiconWideTile.scale-200.png</PackagePath>
-      <Modified>2025-10-01T23:16:27.648</Modified>
+      <Modified>2025-10-05T22:52:54.165</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\es874\source\repos\AcademiaDoZeee\AcademiaDoZe.Presentation.AppMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
       <PackagePath>appiconWideTile.scale-400.png</PackagePath>
-      <Modified>2025-10-01T23:16:27.648</Modified>
+      <Modified>2025-10-05T22:52:54.165</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\es874\source\repos\AcademiaDoZeee\AcademiaDoZe.Presentation.AppMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
       <PackagePath>dotnet_bot.scale-100.png</PackagePath>
-      <Modified>2025-10-01T23:16:27.663</Modified>
+      <Modified>2025-10-05T22:52:54.164</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\es874\source\repos\AcademiaDoZeee\AcademiaDoZe.Presentation.AppMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
       <PackagePath>dotnet_bot.scale-125.png</PackagePath>
-      <Modified>2025-10-01T23:16:27.663</Modified>
+      <Modified>2025-10-05T22:52:54.164</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\es874\source\repos\AcademiaDoZeee\AcademiaDoZe.Presentation.AppMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
       <PackagePath>dotnet_bot.scale-150.png</PackagePath>
-      <Modified>2025-10-01T23:16:27.663</Modified>
+      <Modified>2025-10-05T22:52:54.163</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\es874\source\repos\AcademiaDoZeee\AcademiaDoZe.Presentation.AppMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
       <PackagePath>dotnet_bot.scale-200.png</PackagePath>
-      <Modified>2025-10-01T23:16:27.662</Modified>
+      <Modified>2025-10-05T22:52:54.163</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\es874\source\repos\AcademiaDoZeee\AcademiaDoZe.Presentation.AppMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
       <PackagePath>dotnet_bot.scale-400.png</PackagePath>
-      <Modified>2025-10-01T23:16:27.662</Modified>
+      <Modified>2025-10-05T22:52:54.163</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\es874\source\repos\AcademiaDoZeee\AcademiaDoZe.Presentation.AppMaui\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AcademiaDoZe.Presentation.AppMaui.deps.json">
       <PackagePath>AcademiaDoZe.Presentation.AppMaui.deps.json</PackagePath>
-      <Modified>2025-10-02T21:14:12.588</Modified>
+      <Modified>2025-10-05T23:08:12.685</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\es874\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.57\lib\net8.0\Microsoft.Windows.SDK.NET.dll">
       <PackagePath>Microsoft.Windows.SDK.NET.dll</PackagePath>
@@ -812,7 +824,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\es874\source\repos\AcademiaDoZeee\AcademiaDoZe.Application\bin\Debug\net8.0\AcademiaDoZe.Application.dll">
       <PackagePath>AcademiaDoZe.Application.dll</PackagePath>
-      <Modified>2025-10-02T21:14:02.260</Modified>
+      <Modified>2025-10-05T22:55:38.445</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\es874\source\repos\AcademiaDoZeee\AcademiaDoZe.Domain\bin\Debug\net8.0\AcademiaDoZe.Domain.dll">
       <PackagePath>AcademiaDoZe.Domain.dll</PackagePath>
@@ -820,7 +832,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\es874\source\repos\AcademiaDoZeee\AcademiaDoZe.Infrastructure\bin\Debug\net8.0\AcademiaDoZe.Infrastructure.dll">
       <PackagePath>AcademiaDoZe.Infrastructure.dll</PackagePath>
-      <Modified>2025-10-02T21:14:01.830</Modified>
+      <Modified>2025-10-05T22:55:37.992</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\es874\.nuget\packages\microsoft.maui.controls.compatibility\8.0.100\lib\net8.0-windows10.0.19041\Microsoft.Maui.Controls.Compatibility.pri">
       <PackagePath>Microsoft.Maui.Controls.Compatibility.pri</PackagePath>
