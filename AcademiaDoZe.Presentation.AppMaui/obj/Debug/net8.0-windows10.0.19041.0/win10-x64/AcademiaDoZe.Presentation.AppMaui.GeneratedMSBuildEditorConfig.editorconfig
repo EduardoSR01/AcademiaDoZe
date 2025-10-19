@@ -57,6 +57,18 @@ build_metadata.AdditionalFiles.ManifestResourceName = AcademiaDoZe.Presentation.
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
 
+[C:/Users/es874/TRABALHOS TIO LU/C\#/AcademiaDoZe/AcademiaDoZe.Presentation.AppMaui/Views/AlunoListPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AcademiaDoZe.Presentation.AppMaui.Views.AlunoListPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\AlunoListPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\AlunoListPage.xaml
+
+[C:/Users/es874/TRABALHOS TIO LU/C\#/AcademiaDoZe/AcademiaDoZe.Presentation.AppMaui/Views/AlunoPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AcademiaDoZe.Presentation.AppMaui.Views.AlunoPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\AlunoPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\AlunoPage.xaml
+
 [C:/Users/es874/TRABALHOS TIO LU/C\#/AcademiaDoZe/AcademiaDoZe.Presentation.AppMaui/Views/ColaboradorListPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = AcademiaDoZe.Presentation.AppMaui.Views.ColaboradorListPage.xaml

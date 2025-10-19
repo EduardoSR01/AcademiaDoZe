@@ -18,7 +18,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AcademiaDoZe.Presentation.AppMaui")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+7ddbeaa997e8b0c4a1c7b3b1f3acf2583ba20e14")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+f0090cb57dfbb049d3ec8fcd3d2354e9a65e52c8")]
 [assembly: System.Reflection.AssemblyProductAttribute("AcademiaDoZe.Presentation.AppMaui")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AcademiaDoZe.Presentation.AppMaui")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

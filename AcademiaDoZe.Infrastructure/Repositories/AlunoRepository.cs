@@ -49,7 +49,7 @@ public class AlunoRepository : BaseRepository<Aluno>, IAlunoRepository
         {
             await using var connection = await GetOpenConnectionAsync();
             string query = _databaseType == DatabaseType.SqlServer
-            ? $"INSERT INTO {TableName} (cpf, telefone, nome, nascimento, email, logradouro_id, numero, complemento, senha, foto, admissao, tipo, vinculo) "
+            ? $"INSERT INTO {TableName} (cpf, telefone, nome, nascimento, email, logradouro_id, numero, complemento, senha, foto) "
             + "OUTPUT INSERTED.id_aluno "
             + "VALUES (@Cpf, @Telefone, @Nome, @Nascimento, @Email, @LogradouroId, @Numero, @Complemento, @Senha, @Foto);"
             : $"INSERT INTO {TableName} (cpf, telefone, nome, nascimento, email, logradouro_id, numero, complemento, senha, foto) "

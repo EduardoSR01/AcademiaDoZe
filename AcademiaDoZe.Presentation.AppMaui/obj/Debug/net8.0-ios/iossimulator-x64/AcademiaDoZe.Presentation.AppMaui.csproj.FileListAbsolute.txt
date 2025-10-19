@@ -1067,7 +1067,6 @@ C:\Users\es874\TRABALHOS TIO LU\C#\AcademiaDoZe\AcademiaDoZe.Presentation.AppMau
 C:\Users\es874\TRABALHOS TIO LU\C#\AcademiaDoZe\AcademiaDoZe.Presentation.AppMaui\bin\Debug\net8.0-ios\iossimulator-x64\AcademiaDoZe.Application.pdb
 C:\Users\es874\TRABALHOS TIO LU\C#\AcademiaDoZe\AcademiaDoZe.Presentation.AppMaui\bin\Debug\net8.0-ios\iossimulator-x64\AcademiaDoZe.Domain.pdb
 C:\Users\es874\TRABALHOS TIO LU\C#\AcademiaDoZe\AcademiaDoZe.Presentation.AppMaui\bin\Debug\net8.0-ios\iossimulator-x64\AcademiaDoZe.Infrastructure.pdb
-C:\Users\es874\TRABALHOS TIO LU\C#\AcademiaDoZe\AcademiaDoZe.Presentation.AppMaui\obj\Debug\net8.0-ios\iossimulator-x64\build-signature\signature
 C:\Users\es874\TRABALHOS TIO LU\C#\AcademiaDoZe\AcademiaDoZe.Presentation.AppMaui\obj\Debug\net8.0-ios\iossimulator-x64\mauiimage.inputs
 C:\Users\es874\TRABALHOS TIO LU\C#\AcademiaDoZe\AcademiaDoZe.Presentation.AppMaui\obj\Debug\net8.0-ios\iossimulator-x64\mauifont.inputs
 C:\Users\es874\TRABALHOS TIO LU\C#\AcademiaDoZe\AcademiaDoZe.Presentation.AppMaui\obj\Debug\net8.0-ios\iossimulator-x64\mauisplash.inputs

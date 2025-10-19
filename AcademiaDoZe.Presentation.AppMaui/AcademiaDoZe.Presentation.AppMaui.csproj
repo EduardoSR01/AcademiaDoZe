@@ -84,6 +84,12 @@
 	  <Compile Update="Views\ColaboradorPage.xaml.cs">
 	    <DependentUpon>ColaboradorPage.xaml</DependentUpon>
 	  </Compile>
+	  <Compile Update="Views\AlunoListPage.xaml.cs">
+	    <DependentUpon>AlunoListPage.xaml</DependentUpon>
+	  </Compile>
+	  <Compile Update="Views\AlunoPage.xaml.cs">
+	    <DependentUpon>AlunoPage.xaml</DependentUpon>
+	  </Compile>
 	</ItemGroup>
 
 	<ItemGroup>
@@ -100,6 +106,12 @@
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>
 	  <MauiXaml Update="Views\ColaboradorPage.xaml">
+	    <Generator>MSBuild:Compile</Generator>
+	  </MauiXaml>
+	  <MauiXaml Update="Views\AlunoListPage.xaml">
+	    <Generator>MSBuild:Compile</Generator>
+	  </MauiXaml>
+	  <MauiXaml Update="Views\AlunoPage.xaml">
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>
 	</ItemGroup>

@@ -4,6 +4,182 @@
         <name>AcademiaDoZe.Presentation.AppMaui</name>
     </assembly>
     <members>
+        <member name="T:AcademiaDoZe.Presentation.AppMaui.ViewModels.AlunoListViewModel">
+            <inheritdoc/>
+            <inheritdoc/>
+            <inheritdoc/>
+            <inheritdoc/>
+            <inheritdoc/>
+            <inheritdoc/>
+        </member>
+        <member name="F:AcademiaDoZe.Presentation.AppMaui.ViewModels.AlunoListViewModel.addAlunoCommand">
+            <summary>The backing field for <see cref="P:AcademiaDoZe.Presentation.AppMaui.ViewModels.AlunoListViewModel.AddAlunoCommand"/>.</summary>
+        </member>
+        <member name="P:AcademiaDoZe.Presentation.AppMaui.ViewModels.AlunoListViewModel.AddAlunoCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand"/> instance wrapping <see cref="M:AcademiaDoZe.Presentation.AppMaui.ViewModels.AlunoListViewModel.AddAlunoAsync"/>.</summary>
+        </member>
+        <member name="F:AcademiaDoZe.Presentation.AppMaui.ViewModels.AlunoListViewModel.editAlunoCommand">
+            <summary>The backing field for <see cref="P:AcademiaDoZe.Presentation.AppMaui.ViewModels.AlunoListViewModel.EditAlunoCommand"/>.</summary>
+        </member>
+        <member name="P:AcademiaDoZe.Presentation.AppMaui.ViewModels.AlunoListViewModel.EditAlunoCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand`1"/> instance wrapping <see cref="M:AcademiaDoZe.Presentation.AppMaui.ViewModels.AlunoListViewModel.EditAlunoAsync(AcademiaDoZe.Application.DTOs.AlunoDTO)"/>.</summary>
+        </member>
+        <member name="F:AcademiaDoZe.Presentation.AppMaui.ViewModels.AlunoListViewModel.refreshCommand">
+            <summary>The backing field for <see cref="P:AcademiaDoZe.Presentation.AppMaui.ViewModels.AlunoListViewModel.RefreshCommand"/>.</summary>
+        </member>
+        <member name="P:AcademiaDoZe.Presentation.AppMaui.ViewModels.AlunoListViewModel.RefreshCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand"/> instance wrapping <see cref="M:AcademiaDoZe.Presentation.AppMaui.ViewModels.AlunoListViewModel.RefreshAsync"/>.</summary>
+        </member>
+        <member name="F:AcademiaDoZe.Presentation.AppMaui.ViewModels.AlunoListViewModel.searchAlunosCommand">
+            <summary>The backing field for <see cref="P:AcademiaDoZe.Presentation.AppMaui.ViewModels.AlunoListViewModel.SearchAlunosCommand"/>.</summary>
+        </member>
+        <member name="P:AcademiaDoZe.Presentation.AppMaui.ViewModels.AlunoListViewModel.SearchAlunosCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand"/> instance wrapping <see cref="M:AcademiaDoZe.Presentation.AppMaui.ViewModels.AlunoListViewModel.SearchAlunosAsync"/>.</summary>
+        </member>
+        <member name="F:AcademiaDoZe.Presentation.AppMaui.ViewModels.AlunoListViewModel.loadAlunosCommand">
+            <summary>The backing field for <see cref="P:AcademiaDoZe.Presentation.AppMaui.ViewModels.AlunoListViewModel.LoadAlunosCommand"/>.</summary>
+        </member>
+        <member name="P:AcademiaDoZe.Presentation.AppMaui.ViewModels.AlunoListViewModel.LoadAlunosCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand"/> instance wrapping <see cref="M:AcademiaDoZe.Presentation.AppMaui.ViewModels.AlunoListViewModel.LoadAlunosAsync"/>.</summary>
+        </member>
+        <member name="F:AcademiaDoZe.Presentation.AppMaui.ViewModels.AlunoListViewModel.deleteAlunoCommand">
+            <summary>The backing field for <see cref="P:AcademiaDoZe.Presentation.AppMaui.ViewModels.AlunoListViewModel.DeleteAlunoCommand"/>.</summary>
+        </member>
+        <member name="P:AcademiaDoZe.Presentation.AppMaui.ViewModels.AlunoListViewModel.DeleteAlunoCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand`1"/> instance wrapping <see cref="M:AcademiaDoZe.Presentation.AppMaui.ViewModels.AlunoListViewModel.DeleteAlunoAsync(AcademiaDoZe.Application.DTOs.AlunoDTO)"/>.</summary>
+        </member>
+        <member name="T:AcademiaDoZe.Presentation.AppMaui.ViewModels.AlunoViewModel">
+            <inheritdoc/>
+            <inheritdoc/>
+            <inheritdoc/>
+            <inheritdoc/>
+            <inheritdoc/>
+            <inheritdoc/>
+        </member>
+        <member name="F:AcademiaDoZe.Presentation.AppMaui.ViewModels.AlunoViewModel.cancelCommand">
+            <summary>The backing field for <see cref="P:AcademiaDoZe.Presentation.AppMaui.ViewModels.AlunoViewModel.CancelCommand"/>.</summary>
+        </member>
+        <member name="P:AcademiaDoZe.Presentation.AppMaui.ViewModels.AlunoViewModel.CancelCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand"/> instance wrapping <see cref="M:AcademiaDoZe.Presentation.AppMaui.ViewModels.AlunoViewModel.CancelAsync"/>.</summary>
+        </member>
+        <member name="F:AcademiaDoZe.Presentation.AppMaui.ViewModels.AlunoViewModel.loadAlunoCommand">
+            <summary>The backing field for <see cref="P:AcademiaDoZe.Presentation.AppMaui.ViewModels.AlunoViewModel.LoadAlunoCommand"/>.</summary>
+        </member>
+        <member name="P:AcademiaDoZe.Presentation.AppMaui.ViewModels.AlunoViewModel.LoadAlunoCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand"/> instance wrapping <see cref="M:AcademiaDoZe.Presentation.AppMaui.ViewModels.AlunoViewModel.LoadAlunoAsync"/>.</summary>
+        </member>
+        <member name="F:AcademiaDoZe.Presentation.AppMaui.ViewModels.AlunoViewModel.saveAlunoCommand">
+            <summary>The backing field for <see cref="P:AcademiaDoZe.Presentation.AppMaui.ViewModels.AlunoViewModel.SaveAlunoCommand"/>.</summary>
+        </member>
+        <member name="P:AcademiaDoZe.Presentation.AppMaui.ViewModels.AlunoViewModel.SaveAlunoCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand"/> instance wrapping <see cref="M:AcademiaDoZe.Presentation.AppMaui.ViewModels.AlunoViewModel.SaveAlunoAsync"/>.</summary>
+        </member>
+        <member name="F:AcademiaDoZe.Presentation.AppMaui.ViewModels.AlunoViewModel.searchByCpfCommand">
+            <summary>The backing field for <see cref="P:AcademiaDoZe.Presentation.AppMaui.ViewModels.AlunoViewModel.SearchByCpfCommand"/>.</summary>
+        </member>
+        <member name="P:AcademiaDoZe.Presentation.AppMaui.ViewModels.AlunoViewModel.SearchByCpfCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand"/> instance wrapping <see cref="M:AcademiaDoZe.Presentation.AppMaui.ViewModels.AlunoViewModel.SearchByCpfAsync"/>.</summary>
+        </member>
+        <member name="F:AcademiaDoZe.Presentation.AppMaui.ViewModels.AlunoViewModel.searchByCepCommand">
+            <summary>The backing field for <see cref="P:AcademiaDoZe.Presentation.AppMaui.ViewModels.AlunoViewModel.SearchByCepCommand"/>.</summary>
+        </member>
+        <member name="P:AcademiaDoZe.Presentation.AppMaui.ViewModels.AlunoViewModel.SearchByCepCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand"/> instance wrapping <see cref="M:AcademiaDoZe.Presentation.AppMaui.ViewModels.AlunoViewModel.SearchByCepAsync"/>.</summary>
+        </member>
+        <member name="F:AcademiaDoZe.Presentation.AppMaui.ViewModels.AlunoViewModel.selecionarFotoCommand">
+            <summary>The backing field for <see cref="P:AcademiaDoZe.Presentation.AppMaui.ViewModels.AlunoViewModel.SelecionarFotoCommand"/>.</summary>
+        </member>
+        <member name="P:AcademiaDoZe.Presentation.AppMaui.ViewModels.AlunoViewModel.SelecionarFotoCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand"/> instance wrapping <see cref="M:AcademiaDoZe.Presentation.AppMaui.ViewModels.AlunoViewModel.SelecionarFotoAsync"/>.</summary>
+        </member>
+        <member name="T:AcademiaDoZe.Presentation.AppMaui.ViewModels.ColaboradorListViewModel">
+            <inheritdoc/>
+            <inheritdoc/>
+            <inheritdoc/>
+            <inheritdoc/>
+            <inheritdoc/>
+            <inheritdoc/>
+        </member>
+        <member name="F:AcademiaDoZe.Presentation.AppMaui.ViewModels.ColaboradorListViewModel.addColaboradorCommand">
+            <summary>The backing field for <see cref="P:AcademiaDoZe.Presentation.AppMaui.ViewModels.ColaboradorListViewModel.AddColaboradorCommand"/>.</summary>
+        </member>
+        <member name="P:AcademiaDoZe.Presentation.AppMaui.ViewModels.ColaboradorListViewModel.AddColaboradorCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand"/> instance wrapping <see cref="M:AcademiaDoZe.Presentation.AppMaui.ViewModels.ColaboradorListViewModel.AddColaboradorAsync"/>.</summary>
+        </member>
+        <member name="F:AcademiaDoZe.Presentation.AppMaui.ViewModels.ColaboradorListViewModel.editColaboradorCommand">
+            <summary>The backing field for <see cref="P:AcademiaDoZe.Presentation.AppMaui.ViewModels.ColaboradorListViewModel.EditColaboradorCommand"/>.</summary>
+        </member>
+        <member name="P:AcademiaDoZe.Presentation.AppMaui.ViewModels.ColaboradorListViewModel.EditColaboradorCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand`1"/> instance wrapping <see cref="M:AcademiaDoZe.Presentation.AppMaui.ViewModels.ColaboradorListViewModel.EditColaboradorAsync(AcademiaDoZe.Application.DTOs.ColaboradorDTO)"/>.</summary>
+        </member>
+        <member name="F:AcademiaDoZe.Presentation.AppMaui.ViewModels.ColaboradorListViewModel.refreshCommand">
+            <summary>The backing field for <see cref="P:AcademiaDoZe.Presentation.AppMaui.ViewModels.ColaboradorListViewModel.RefreshCommand"/>.</summary>
+        </member>
+        <member name="P:AcademiaDoZe.Presentation.AppMaui.ViewModels.ColaboradorListViewModel.RefreshCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand"/> instance wrapping <see cref="M:AcademiaDoZe.Presentation.AppMaui.ViewModels.ColaboradorListViewModel.RefreshAsync"/>.</summary>
+        </member>
+        <member name="F:AcademiaDoZe.Presentation.AppMaui.ViewModels.ColaboradorListViewModel.searchColaboradoresCommand">
+            <summary>The backing field for <see cref="P:AcademiaDoZe.Presentation.AppMaui.ViewModels.ColaboradorListViewModel.SearchColaboradoresCommand"/>.</summary>
+        </member>
+        <member name="P:AcademiaDoZe.Presentation.AppMaui.ViewModels.ColaboradorListViewModel.SearchColaboradoresCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand"/> instance wrapping <see cref="M:AcademiaDoZe.Presentation.AppMaui.ViewModels.ColaboradorListViewModel.SearchColaboradoresAsync"/>.</summary>
+        </member>
+        <member name="F:AcademiaDoZe.Presentation.AppMaui.ViewModels.ColaboradorListViewModel.loadColaboradoresCommand">
+            <summary>The backing field for <see cref="P:AcademiaDoZe.Presentation.AppMaui.ViewModels.ColaboradorListViewModel.LoadColaboradoresCommand"/>.</summary>
+        </member>
+        <member name="P:AcademiaDoZe.Presentation.AppMaui.ViewModels.ColaboradorListViewModel.LoadColaboradoresCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand"/> instance wrapping <see cref="M:AcademiaDoZe.Presentation.AppMaui.ViewModels.ColaboradorListViewModel.LoadColaboradoresAsync"/>.</summary>
+        </member>
+        <member name="F:AcademiaDoZe.Presentation.AppMaui.ViewModels.ColaboradorListViewModel.deleteColaboradorCommand">
+            <summary>The backing field for <see cref="P:AcademiaDoZe.Presentation.AppMaui.ViewModels.ColaboradorListViewModel.DeleteColaboradorCommand"/>.</summary>
+        </member>
+        <member name="P:AcademiaDoZe.Presentation.AppMaui.ViewModels.ColaboradorListViewModel.DeleteColaboradorCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand`1"/> instance wrapping <see cref="M:AcademiaDoZe.Presentation.AppMaui.ViewModels.ColaboradorListViewModel.DeleteColaboradorAsync(AcademiaDoZe.Application.DTOs.ColaboradorDTO)"/>.</summary>
+        </member>
+        <member name="T:AcademiaDoZe.Presentation.AppMaui.ViewModels.ColaboradorViewModel">
+            <inheritdoc/>
+            <inheritdoc/>
+            <inheritdoc/>
+            <inheritdoc/>
+            <inheritdoc/>
+            <inheritdoc/>
+        </member>
+        <member name="F:AcademiaDoZe.Presentation.AppMaui.ViewModels.ColaboradorViewModel.cancelCommand">
+            <summary>The backing field for <see cref="P:AcademiaDoZe.Presentation.AppMaui.ViewModels.ColaboradorViewModel.CancelCommand"/>.</summary>
+        </member>
+        <member name="P:AcademiaDoZe.Presentation.AppMaui.ViewModels.ColaboradorViewModel.CancelCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand"/> instance wrapping <see cref="M:AcademiaDoZe.Presentation.AppMaui.ViewModels.ColaboradorViewModel.CancelAsync"/>.</summary>
+        </member>
+        <member name="F:AcademiaDoZe.Presentation.AppMaui.ViewModels.ColaboradorViewModel.loadColaboradorCommand">
+            <summary>The backing field for <see cref="P:AcademiaDoZe.Presentation.AppMaui.ViewModels.ColaboradorViewModel.LoadColaboradorCommand"/>.</summary>
+        </member>
+        <member name="P:AcademiaDoZe.Presentation.AppMaui.ViewModels.ColaboradorViewModel.LoadColaboradorCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand"/> instance wrapping <see cref="M:AcademiaDoZe.Presentation.AppMaui.ViewModels.ColaboradorViewModel.LoadColaboradorAsync"/>.</summary>
+        </member>
+        <member name="F:AcademiaDoZe.Presentation.AppMaui.ViewModels.ColaboradorViewModel.saveColaboradorCommand">
+            <summary>The backing field for <see cref="P:AcademiaDoZe.Presentation.AppMaui.ViewModels.ColaboradorViewModel.SaveColaboradorCommand"/>.</summary>
+        </member>
+        <member name="P:AcademiaDoZe.Presentation.AppMaui.ViewModels.ColaboradorViewModel.SaveColaboradorCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand"/> instance wrapping <see cref="M:AcademiaDoZe.Presentation.AppMaui.ViewModels.ColaboradorViewModel.SaveColaboradorAsync"/>.</summary>
+        </member>
+        <member name="F:AcademiaDoZe.Presentation.AppMaui.ViewModels.ColaboradorViewModel.searchByCpfCommand">
+            <summary>The backing field for <see cref="P:AcademiaDoZe.Presentation.AppMaui.ViewModels.ColaboradorViewModel.SearchByCpfCommand"/>.</summary>
+        </member>
+        <member name="P:AcademiaDoZe.Presentation.AppMaui.ViewModels.ColaboradorViewModel.SearchByCpfCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand"/> instance wrapping <see cref="M:AcademiaDoZe.Presentation.AppMaui.ViewModels.ColaboradorViewModel.SearchByCpfAsync"/>.</summary>
+        </member>
+        <member name="F:AcademiaDoZe.Presentation.AppMaui.ViewModels.ColaboradorViewModel.searchByCepCommand">
+            <summary>The backing field for <see cref="P:AcademiaDoZe.Presentation.AppMaui.ViewModels.ColaboradorViewModel.SearchByCepCommand"/>.</summary>
+        </member>
+        <member name="P:AcademiaDoZe.Presentation.AppMaui.ViewModels.ColaboradorViewModel.SearchByCepCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand"/> instance wrapping <see cref="M:AcademiaDoZe.Presentation.AppMaui.ViewModels.ColaboradorViewModel.SearchByCepAsync"/>.</summary>
+        </member>
+        <member name="F:AcademiaDoZe.Presentation.AppMaui.ViewModels.ColaboradorViewModel.selecionarFotoCommand">
+            <summary>The backing field for <see cref="P:AcademiaDoZe.Presentation.AppMaui.ViewModels.ColaboradorViewModel.SelecionarFotoCommand"/>.</summary>
+        </member>
+        <member name="P:AcademiaDoZe.Presentation.AppMaui.ViewModels.ColaboradorViewModel.SelecionarFotoCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand"/> instance wrapping <see cref="M:AcademiaDoZe.Presentation.AppMaui.ViewModels.ColaboradorViewModel.SelecionarFotoAsync"/>.</summary>
+        </member>
         <member name="T:AcademiaDoZe.Presentation.AppMaui.ViewModels.DashboardListViewModel">
             <inheritdoc/>
             <inheritdoc/>

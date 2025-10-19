@@ -30,13 +30,13 @@
     <AppXManifest Include="C:\Users\es874\TRABALHOS TIO LU\C#\AcademiaDoZe\AcademiaDoZe.Presentation.AppMaui\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2025-10-19T17:07:53.780</Modified>
+      <Modified>2025-10-19T21:28:51.995</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\es874\TRABALHOS TIO LU\C#\AcademiaDoZe\AcademiaDoZe.Presentation.AppMaui\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2025-10-19T17:07:53.443</Modified>
+      <Modified>2025-10-19T21:01:50.789</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\es874\TRABALHOS TIO LU\C#\AcademiaDoZe\AcademiaDoZe.Presentation.AppMaui\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AcademiaDoZe.Presentation.AppMaui.runtimeconfig.json">
       <PackagePath>AcademiaDoZe.Presentation.AppMaui.runtimeconfig.json</PackagePath>
@@ -44,11 +44,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\es874\TRABALHOS TIO LU\C#\AcademiaDoZe\AcademiaDoZe.Presentation.AppMaui\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AcademiaDoZe.Presentation.AppMaui.dll">
       <PackagePath>AcademiaDoZe.Presentation.AppMaui.dll</PackagePath>
-      <Modified>2025-10-19T17:07:50.552</Modified>
+      <Modified>2025-10-19T21:28:49.265</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\es874\TRABALHOS TIO LU\C#\AcademiaDoZe\AcademiaDoZe.Presentation.AppMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>AcademiaDoZe.Presentation.AppMaui.exe</PackagePath>
-      <Modified>2025-10-19T17:07:50.628</Modified>
+      <Modified>2025-10-19T21:28:49.329</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\es874\TRABALHOS TIO LU\C#\AcademiaDoZe\AcademiaDoZe.Presentation.AppMaui\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
@@ -304,7 +304,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\es874\TRABALHOS TIO LU\C#\AcademiaDoZe\AcademiaDoZe.Presentation.AppMaui\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AcademiaDoZe.Presentation.AppMaui.deps.json">
       <PackagePath>AcademiaDoZe.Presentation.AppMaui.deps.json</PackagePath>
-      <Modified>2025-10-19T17:07:52.887</Modified>
+      <Modified>2025-10-19T21:01:50.542</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\es874\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.57\lib\net8.0\Microsoft.Windows.SDK.NET.dll">
       <PackagePath>Microsoft.Windows.SDK.NET.dll</PackagePath>
@@ -824,7 +824,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\es874\TRABALHOS TIO LU\C#\AcademiaDoZe\AcademiaDoZe.Application\bin\Debug\net8.0\AcademiaDoZe.Application.dll">
       <PackagePath>AcademiaDoZe.Application.dll</PackagePath>
-      <Modified>2025-10-18T03:30:01.082</Modified>
+      <Modified>2025-10-19T21:28:33.078</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\es874\TRABALHOS TIO LU\C#\AcademiaDoZe\AcademiaDoZe.Domain\bin\Debug\net8.0\AcademiaDoZe.Domain.dll">
       <PackagePath>AcademiaDoZe.Domain.dll</PackagePath>
@@ -832,7 +832,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\es874\TRABALHOS TIO LU\C#\AcademiaDoZe\AcademiaDoZe.Infrastructure\bin\Debug\net8.0\AcademiaDoZe.Infrastructure.dll">
       <PackagePath>AcademiaDoZe.Infrastructure.dll</PackagePath>
-      <Modified>2025-10-18T03:29:59.097</Modified>
+      <Modified>2025-10-19T21:28:32.299</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\es874\.nuget\packages\microsoft.maui.controls.compatibility\8.0.100\lib\net8.0-windows10.0.19041\Microsoft.Maui.Controls.Compatibility.pri">
       <PackagePath>Microsoft.Maui.Controls.Compatibility.pri</PackagePath>
