@@ -18,6 +18,7 @@ namespace AcademiaDoZe.Presentation.AppMaui
 
         {
             Routing.RegisterRoute("logradouro", typeof(LogradouroPage));
+            Routing.RegisterRoute("colaborador", typeof(ColaboradorPage));
         }
     }
 }
