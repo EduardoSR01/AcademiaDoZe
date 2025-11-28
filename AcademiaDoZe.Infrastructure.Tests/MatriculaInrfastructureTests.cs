@@ -66,10 +66,8 @@ public class MatriculaInfrastructureTests : TestBase
         var aluno = await repoAluno.ObterPorCpf("11140608981");
         Assert.NotNull(aluno);
 
-        var matriculas = (await repoMatricula.ObterPorAluno(aluno!.Id)).ToList();
-        Assert.NotEmpty(matriculas);
-
-        var matricula = matriculas.First(); // pega a primeira matrícula
+        var matricula = (await repoMatricula.ObterPorAluno(aluno!.Id));
+        Assert.NotNull(matricula);
 
         var arquivo = Arquivo.Criar(new byte[] { 1, 2, 3 });
         var matriculaAtualizada = Matricula.Criar(
@@ -103,11 +101,9 @@ public class MatriculaInfrastructureTests : TestBase
         var aluno = await repoAluno.ObterPorCpf("11140608981");
         Assert.NotNull(aluno);
 
-        var matriculas = (await repoMatricula.ObterPorAluno(aluno!.Id)).ToList();
-        Assert.NotEmpty(matriculas);
+        var matricula = (await repoMatricula.ObterPorAluno(aluno!.Id));
+        Assert.NotNull(matricula);
 
-        var matricula = matriculas.First(); // pega a primeira matrícula
-        
         // Remover
         var resultadoRemocao = await repoMatricula.Remover(matricula.Id);
 
@@ -138,10 +134,8 @@ public class MatriculaInfrastructureTests : TestBase
         var aluno = await repoAluno.ObterPorCpf("12345678901");
         Assert.NotNull(aluno);
 
-        var matriculas = (await repoMatricula.ObterPorAluno(aluno!.Id)).ToList();
-        Assert.NotEmpty(matriculas);
-
-        var matricula = matriculas.First(); // pega a primeira matrícula
+        var matricula = (await repoMatricula.ObterPorAluno(aluno!.Id));
+        Assert.NotNull(matricula);
 
         var matriculaPorId = await repoMatricula.ObterPorId(matricula.Id);
         Assert.NotNull(matriculaPorId);

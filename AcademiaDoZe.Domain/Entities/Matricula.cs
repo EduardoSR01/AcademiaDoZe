@@ -20,10 +20,9 @@ public class Matricula : Entity
     public Arquivo LaudoMedico { get; private set; }
     // construtor privado para evitar instância direta
     private Matricula(int id, Aluno alunoMatricula, EMatriculaPlano plano, DateOnly dataInicio, DateOnly dataFim, string objetivo,
-        EMatriculaRestricoes restricoesMedicas, Arquivo laudoMedico, string observacoesRestricoes = "")
+        EMatriculaRestricoes restricoesMedicas, Arquivo laudoMedico, string observacoesRestricoes)
     : base()
     {
-        Id = id;
         AlunoMatricula = alunoMatricula;
         Plano = plano;
         DataInicio = dataInicio;

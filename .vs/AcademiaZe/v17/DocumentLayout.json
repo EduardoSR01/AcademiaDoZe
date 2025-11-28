@@ -1,105 +1,161 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\es874\\TRABALHOS TIO LU\\C#\\AcademiaDoZe\\",
+  "WorkspaceRootPath": "C:\\Users\\es874\\TRABALHOS TIO LU\\ACADEMIA\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A09E9BBB-60AC-4407-9A36-61AD266C6F82}|AcademiaDoZe.Presentation.AppMaui\\AcademiaDoZe.Presentation.AppMaui.csproj|c:\\users\\es874\\trabalhos tio lu\\c#\\academiadoze\\academiadoze.presentation.appmaui\\views\\alunolistpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{A09E9BBB-60AC-4407-9A36-61AD266C6F82}|AcademiaDoZe.Presentation.AppMaui\\AcademiaDoZe.Presentation.AppMaui.csproj|c:\\users\\es874\\trabalhos tio lu\\academia\\academiadoze.presentation.appmaui\\views\\matriculapage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A09E9BBB-60AC-4407-9A36-61AD266C6F82}|AcademiaDoZe.Presentation.AppMaui\\AcademiaDoZe.Presentation.AppMaui.csproj|solutionrelative:academiadoze.presentation.appmaui\\views\\matriculapage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09E9BBB-60AC-4407-9A36-61AD266C6F82}|AcademiaDoZe.Presentation.AppMaui\\AcademiaDoZe.Presentation.AppMaui.csproj|c:\\users\\es874\\trabalhos tio lu\\academia\\academiadoze.presentation.appmaui\\viewmodels\\matriculaviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A09E9BBB-60AC-4407-9A36-61AD266C6F82}|AcademiaDoZe.Presentation.AppMaui\\AcademiaDoZe.Presentation.AppMaui.csproj|solutionrelative:academiadoze.presentation.appmaui\\viewmodels\\matriculaviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09E9BBB-60AC-4407-9A36-61AD266C6F82}|AcademiaDoZe.Presentation.AppMaui\\AcademiaDoZe.Presentation.AppMaui.csproj|c:\\users\\es874\\trabalhos tio lu\\academia\\academiadoze.presentation.appmaui\\views\\matriculapage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A09E9BBB-60AC-4407-9A36-61AD266C6F82}|AcademiaDoZe.Presentation.AppMaui\\AcademiaDoZe.Presentation.AppMaui.csproj|solutionrelative:academiadoze.presentation.appmaui\\views\\matriculapage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09E9BBB-60AC-4407-9A36-61AD266C6F82}|AcademiaDoZe.Presentation.AppMaui\\AcademiaDoZe.Presentation.AppMaui.csproj|c:\\users\\es874\\trabalhos tio lu\\academia\\academiadoze.presentation.appmaui\\views\\matriculalistpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A09E9BBB-60AC-4407-9A36-61AD266C6F82}|AcademiaDoZe.Presentation.AppMaui\\AcademiaDoZe.Presentation.AppMaui.csproj|solutionrelative:academiadoze.presentation.appmaui\\views\\matriculalistpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09E9BBB-60AC-4407-9A36-61AD266C6F82}|AcademiaDoZe.Presentation.AppMaui\\AcademiaDoZe.Presentation.AppMaui.csproj|c:\\users\\es874\\trabalhos tio lu\\academia\\academiadoze.presentation.appmaui\\views\\matriculalistpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A09E9BBB-60AC-4407-9A36-61AD266C6F82}|AcademiaDoZe.Presentation.AppMaui\\AcademiaDoZe.Presentation.AppMaui.csproj|solutionrelative:academiadoze.presentation.appmaui\\views\\matriculalistpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09E9BBB-60AC-4407-9A36-61AD266C6F82}|AcademiaDoZe.Presentation.AppMaui\\AcademiaDoZe.Presentation.AppMaui.csproj|c:\\users\\es874\\trabalhos tio lu\\academia\\academiadoze.presentation.appmaui\\views\\colaboradorlistpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A09E9BBB-60AC-4407-9A36-61AD266C6F82}|AcademiaDoZe.Presentation.AppMaui\\AcademiaDoZe.Presentation.AppMaui.csproj|solutionrelative:academiadoze.presentation.appmaui\\views\\colaboradorlistpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09E9BBB-60AC-4407-9A36-61AD266C6F82}|AcademiaDoZe.Presentation.AppMaui\\AcademiaDoZe.Presentation.AppMaui.csproj|c:\\users\\es874\\trabalhos tio lu\\academia\\academiadoze.presentation.appmaui\\views\\alunolistpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{A09E9BBB-60AC-4407-9A36-61AD266C6F82}|AcademiaDoZe.Presentation.AppMaui\\AcademiaDoZe.Presentation.AppMaui.csproj|solutionrelative:academiadoze.presentation.appmaui\\views\\alunolistpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A09E9BBB-60AC-4407-9A36-61AD266C6F82}|AcademiaDoZe.Presentation.AppMaui\\AcademiaDoZe.Presentation.AppMaui.csproj|c:\\users\\es874\\trabalhos tio lu\\c#\\academiadoze\\academiadoze.presentation.appmaui\\views\\alunopage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{A09E9BBB-60AC-4407-9A36-61AD266C6F82}|AcademiaDoZe.Presentation.AppMaui\\AcademiaDoZe.Presentation.AppMaui.csproj|solutionrelative:academiadoze.presentation.appmaui\\views\\alunopage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{A09E9BBB-60AC-4407-9A36-61AD266C6F82}|AcademiaDoZe.Presentation.AppMaui\\AcademiaDoZe.Presentation.AppMaui.csproj|c:\\users\\es874\\trabalhos tio lu\\academia\\academiadoze.presentation.appmaui\\viewmodels\\matriculalistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A09E9BBB-60AC-4407-9A36-61AD266C6F82}|AcademiaDoZe.Presentation.AppMaui\\AcademiaDoZe.Presentation.AppMaui.csproj|solutionrelative:academiadoze.presentation.appmaui\\viewmodels\\matriculalistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A09E9BBB-60AC-4407-9A36-61AD266C6F82}|AcademiaDoZe.Presentation.AppMaui\\AcademiaDoZe.Presentation.AppMaui.csproj|c:\\users\\es874\\trabalhos tio lu\\c#\\academiadoze\\academiadoze.presentation.appmaui\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A09E9BBB-60AC-4407-9A36-61AD266C6F82}|AcademiaDoZe.Presentation.AppMaui\\AcademiaDoZe.Presentation.AppMaui.csproj|c:\\users\\es874\\trabalhos tio lu\\academia\\academiadoze.presentation.appmaui\\viewmodels\\alunoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A09E9BBB-60AC-4407-9A36-61AD266C6F82}|AcademiaDoZe.Presentation.AppMaui\\AcademiaDoZe.Presentation.AppMaui.csproj|solutionrelative:academiadoze.presentation.appmaui\\viewmodels\\alunoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09E9BBB-60AC-4407-9A36-61AD266C6F82}|AcademiaDoZe.Presentation.AppMaui\\AcademiaDoZe.Presentation.AppMaui.csproj|c:\\users\\es874\\trabalhos tio lu\\academia\\academiadoze.presentation.appmaui\\viewmodels\\alunolistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A09E9BBB-60AC-4407-9A36-61AD266C6F82}|AcademiaDoZe.Presentation.AppMaui\\AcademiaDoZe.Presentation.AppMaui.csproj|solutionrelative:academiadoze.presentation.appmaui\\viewmodels\\alunolistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09E9BBB-60AC-4407-9A36-61AD266C6F82}|AcademiaDoZe.Presentation.AppMaui\\AcademiaDoZe.Presentation.AppMaui.csproj|c:\\users\\es874\\trabalhos tio lu\\academia\\academiadoze.presentation.appmaui\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A09E9BBB-60AC-4407-9A36-61AD266C6F82}|AcademiaDoZe.Presentation.AppMaui\\AcademiaDoZe.Presentation.AppMaui.csproj|solutionrelative:academiadoze.presentation.appmaui\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A09E9BBB-60AC-4407-9A36-61AD266C6F82}|AcademiaDoZe.Presentation.AppMaui\\AcademiaDoZe.Presentation.AppMaui.csproj|c:\\users\\es874\\trabalhos tio lu\\c#\\academiadoze\\academiadoze.presentation.appmaui\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{A09E9BBB-60AC-4407-9A36-61AD266C6F82}|AcademiaDoZe.Presentation.AppMaui\\AcademiaDoZe.Presentation.AppMaui.csproj|solutionrelative:academiadoze.presentation.appmaui\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{A09E9BBB-60AC-4407-9A36-61AD266C6F82}|AcademiaDoZe.Presentation.AppMaui\\AcademiaDoZe.Presentation.AppMaui.csproj|c:\\users\\es874\\trabalhos tio lu\\academia\\academiadoze.presentation.appmaui\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A09E9BBB-60AC-4407-9A36-61AD266C6F82}|AcademiaDoZe.Presentation.AppMaui\\AcademiaDoZe.Presentation.AppMaui.csproj|solutionrelative:academiadoze.presentation.appmaui\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A09E9BBB-60AC-4407-9A36-61AD266C6F82}|AcademiaDoZe.Presentation.AppMaui\\AcademiaDoZe.Presentation.AppMaui.csproj|c:\\users\\es874\\trabalhos tio lu\\c#\\academiadoze\\academiadoze.presentation.appmaui\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{A09E9BBB-60AC-4407-9A36-61AD266C6F82}|AcademiaDoZe.Presentation.AppMaui\\AcademiaDoZe.Presentation.AppMaui.csproj|c:\\users\\es874\\trabalhos tio lu\\academia\\academiadoze.presentation.appmaui\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{A09E9BBB-60AC-4407-9A36-61AD266C6F82}|AcademiaDoZe.Presentation.AppMaui\\AcademiaDoZe.Presentation.AppMaui.csproj|solutionrelative:academiadoze.presentation.appmaui\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A09E9BBB-60AC-4407-9A36-61AD266C6F82}|AcademiaDoZe.Presentation.AppMaui\\AcademiaDoZe.Presentation.AppMaui.csproj|c:\\users\\es874\\trabalhos tio lu\\c#\\academiadoze\\academiadoze.presentation.appmaui\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{591F7BC7-54DC-4889-ACC7-7E9A00D6756C}|AcademiaDoZe.Infrastructure\\AcademiaDoZe.Infrastructure.csproj|c:\\users\\es874\\trabalhos tio lu\\academia\\academiadoze.infrastructure\\repositories\\matricularepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{591F7BC7-54DC-4889-ACC7-7E9A00D6756C}|AcademiaDoZe.Infrastructure\\AcademiaDoZe.Infrastructure.csproj|solutionrelative:academiadoze.infrastructure\\repositories\\matricularepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{591F7BC7-54DC-4889-ACC7-7E9A00D6756C}|AcademiaDoZe.Infrastructure\\AcademiaDoZe.Infrastructure.csproj|c:\\users\\es874\\trabalhos tio lu\\academia\\academiadoze.infrastructure\\repositories\\alunorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{591F7BC7-54DC-4889-ACC7-7E9A00D6756C}|AcademiaDoZe.Infrastructure\\AcademiaDoZe.Infrastructure.csproj|solutionrelative:academiadoze.infrastructure\\repositories\\alunorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA6D9924-63A8-401A-962F-9D0DC9C4043E}|AcademiaDoZe.Domain\\AcademiaDoZe.Domain.csproj|c:\\users\\es874\\trabalhos tio lu\\academia\\academiadoze.domain\\repositories\\imatricularepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA6D9924-63A8-401A-962F-9D0DC9C4043E}|AcademiaDoZe.Domain\\AcademiaDoZe.Domain.csproj|solutionrelative:academiadoze.domain\\repositories\\imatricularepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA6D9924-63A8-401A-962F-9D0DC9C4043E}|AcademiaDoZe.Domain\\AcademiaDoZe.Domain.csproj|c:\\users\\es874\\trabalhos tio lu\\academia\\academiadoze.domain\\entities\\matricula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA6D9924-63A8-401A-962F-9D0DC9C4043E}|AcademiaDoZe.Domain\\AcademiaDoZe.Domain.csproj|solutionrelative:academiadoze.domain\\entities\\matricula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AD920F6-130A-FE18-7A30-C8F9C23CBF73}|AcademiaDoZe.Application\\AcademiaDoZe.Application.csproj|c:\\users\\es874\\trabalhos tio lu\\academia\\academiadoze.application\\services\\matriculaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AD920F6-130A-FE18-7A30-C8F9C23CBF73}|AcademiaDoZe.Application\\AcademiaDoZe.Application.csproj|solutionrelative:academiadoze.application\\services\\matriculaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AD920F6-130A-FE18-7A30-C8F9C23CBF73}|AcademiaDoZe.Application\\AcademiaDoZe.Application.csproj|c:\\users\\es874\\trabalhos tio lu\\academia\\academiadoze.application\\interfaces\\imatriculaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AD920F6-130A-FE18-7A30-C8F9C23CBF73}|AcademiaDoZe.Application\\AcademiaDoZe.Application.csproj|solutionrelative:academiadoze.application\\interfaces\\imatriculaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{892C0DE3-1C0D-461C-B969-7BAF93F68828}|AcademiaDoZe.Application.Tests\\AcademiaDoZe.Application.Tests.csproj|c:\\users\\es874\\trabalhos tio lu\\academia\\academiadoze.application.tests\\applicationtests\\matriculaapplicationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{892C0DE3-1C0D-461C-B969-7BAF93F68828}|AcademiaDoZe.Application.Tests\\AcademiaDoZe.Application.Tests.csproj|solutionrelative:academiadoze.application.tests\\applicationtests\\matriculaapplicationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09E9BBB-60AC-4407-9A36-61AD266C6F82}|AcademiaDoZe.Presentation.AppMaui\\AcademiaDoZe.Presentation.AppMaui.csproj|c:\\users\\es874\\trabalhos tio lu\\academia\\academiadoze.presentation.appmaui\\views\\alunopage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A09E9BBB-60AC-4407-9A36-61AD266C6F82}|AcademiaDoZe.Presentation.AppMaui\\AcademiaDoZe.Presentation.AppMaui.csproj|solutionrelative:academiadoze.presentation.appmaui\\views\\alunopage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09E9BBB-60AC-4407-9A36-61AD266C6F82}|AcademiaDoZe.Presentation.AppMaui\\AcademiaDoZe.Presentation.AppMaui.csproj|c:\\users\\es874\\trabalhos tio lu\\academia\\academiadoze.presentation.appmaui\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A09E9BBB-60AC-4407-9A36-61AD266C6F82}|AcademiaDoZe.Presentation.AppMaui\\AcademiaDoZe.Presentation.AppMaui.csproj|solutionrelative:academiadoze.presentation.appmaui\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09E9BBB-60AC-4407-9A36-61AD266C6F82}|AcademiaDoZe.Presentation.AppMaui\\AcademiaDoZe.Presentation.AppMaui.csproj|c:\\users\\es874\\trabalhos tio lu\\academia\\academiadoze.presentation.appmaui\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{A09E9BBB-60AC-4407-9A36-61AD266C6F82}|AcademiaDoZe.Presentation.AppMaui\\AcademiaDoZe.Presentation.AppMaui.csproj|solutionrelative:academiadoze.presentation.appmaui\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{591F7BC7-54DC-4889-ACC7-7E9A00D6756C}|AcademiaDoZe.Infrastructure\\AcademiaDoZe.Infrastructure.csproj|c:\\users\\es874\\trabalhos tio lu\\c#\\academiadoze\\academiadoze.infrastructure\\repositories\\acessorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{591F7BC7-54DC-4889-ACC7-7E9A00D6756C}|AcademiaDoZe.Infrastructure\\AcademiaDoZe.Infrastructure.csproj|c:\\users\\es874\\trabalhos tio lu\\academia\\academiadoze.infrastructure\\repositories\\acessorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{591F7BC7-54DC-4889-ACC7-7E9A00D6756C}|AcademiaDoZe.Infrastructure\\AcademiaDoZe.Infrastructure.csproj|solutionrelative:academiadoze.infrastructure\\repositories\\acessorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{892C0DE3-1C0D-461C-B969-7BAF93F68828}|AcademiaDoZe.Application.Tests\\AcademiaDoZe.Application.Tests.csproj|c:\\users\\es874\\trabalhos tio lu\\c#\\academiadoze\\academiadoze.application.tests\\applicationtests\\alunoapplicationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{892C0DE3-1C0D-461C-B969-7BAF93F68828}|AcademiaDoZe.Application.Tests\\AcademiaDoZe.Application.Tests.csproj|c:\\users\\es874\\trabalhos tio lu\\academia\\academiadoze.application.tests\\applicationtests\\alunoapplicationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{892C0DE3-1C0D-461C-B969-7BAF93F68828}|AcademiaDoZe.Application.Tests\\AcademiaDoZe.Application.Tests.csproj|solutionrelative:academiadoze.application.tests\\applicationtests\\alunoapplicationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{892C0DE3-1C0D-461C-B969-7BAF93F68828}|AcademiaDoZe.Application.Tests\\AcademiaDoZe.Application.Tests.csproj|c:\\users\\es874\\trabalhos tio lu\\c#\\academiadoze\\academiadoze.application.tests\\moq\\moqalunoservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{892C0DE3-1C0D-461C-B969-7BAF93F68828}|AcademiaDoZe.Application.Tests\\AcademiaDoZe.Application.Tests.csproj|c:\\users\\es874\\trabalhos tio lu\\academia\\academiadoze.application.tests\\moq\\moqalunoservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{892C0DE3-1C0D-461C-B969-7BAF93F68828}|AcademiaDoZe.Application.Tests\\AcademiaDoZe.Application.Tests.csproj|solutionrelative:academiadoze.application.tests\\moq\\moqalunoservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6AD920F6-130A-FE18-7A30-C8F9C23CBF73}|AcademiaDoZe.Application\\AcademiaDoZe.Application.csproj|c:\\users\\es874\\trabalhos tio lu\\c#\\academiadoze\\academiadoze.application\\services\\alunoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6AD920F6-130A-FE18-7A30-C8F9C23CBF73}|AcademiaDoZe.Application\\AcademiaDoZe.Application.csproj|c:\\users\\es874\\trabalhos tio lu\\academia\\academiadoze.application\\services\\alunoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6AD920F6-130A-FE18-7A30-C8F9C23CBF73}|AcademiaDoZe.Application\\AcademiaDoZe.Application.csproj|solutionrelative:academiadoze.application\\services\\alunoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\es874\\source\\repos\\AcademiaDoZeee\\AcademiaDoZe.Infrastructure\\Repositories\\AlunoRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6AD920F6-130A-FE18-7A30-C8F9C23CBF73}|AcademiaDoZe.Application\\AcademiaDoZe.Application.csproj|c:\\users\\es874\\trabalhos tio lu\\c#\\academiadoze\\academiadoze.application\\mappings\\alunomappings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6AD920F6-130A-FE18-7A30-C8F9C23CBF73}|AcademiaDoZe.Application\\AcademiaDoZe.Application.csproj|c:\\users\\es874\\trabalhos tio lu\\academia\\academiadoze.application\\mappings\\alunomappings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6AD920F6-130A-FE18-7A30-C8F9C23CBF73}|AcademiaDoZe.Application\\AcademiaDoZe.Application.csproj|solutionrelative:academiadoze.application\\mappings\\alunomappings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6AD920F6-130A-FE18-7A30-C8F9C23CBF73}|AcademiaDoZe.Application\\AcademiaDoZe.Application.csproj|c:\\users\\es874\\trabalhos tio lu\\c#\\academiadoze\\academiadoze.application\\interfaces\\ialunoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6AD920F6-130A-FE18-7A30-C8F9C23CBF73}|AcademiaDoZe.Application\\AcademiaDoZe.Application.csproj|c:\\users\\es874\\trabalhos tio lu\\academia\\academiadoze.application\\interfaces\\ialunoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6AD920F6-130A-FE18-7A30-C8F9C23CBF73}|AcademiaDoZe.Application\\AcademiaDoZe.Application.csproj|solutionrelative:academiadoze.application\\interfaces\\ialunoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6AD920F6-130A-FE18-7A30-C8F9C23CBF73}|AcademiaDoZe.Application\\AcademiaDoZe.Application.csproj|c:\\users\\es874\\trabalhos tio lu\\c#\\academiadoze\\academiadoze.application\\dtos\\colaboradordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6AD920F6-130A-FE18-7A30-C8F9C23CBF73}|AcademiaDoZe.Application\\AcademiaDoZe.Application.csproj|c:\\users\\es874\\trabalhos tio lu\\academia\\academiadoze.application\\dtos\\colaboradordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6AD920F6-130A-FE18-7A30-C8F9C23CBF73}|AcademiaDoZe.Application\\AcademiaDoZe.Application.csproj|solutionrelative:academiadoze.application\\dtos\\colaboradordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6AD920F6-130A-FE18-7A30-C8F9C23CBF73}|AcademiaDoZe.Application\\AcademiaDoZe.Application.csproj|c:\\users\\es874\\trabalhos tio lu\\c#\\academiadoze\\academiadoze.application\\dtos\\arquivodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6AD920F6-130A-FE18-7A30-C8F9C23CBF73}|AcademiaDoZe.Application\\AcademiaDoZe.Application.csproj|c:\\users\\es874\\trabalhos tio lu\\academia\\academiadoze.application\\dtos\\arquivodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6AD920F6-130A-FE18-7A30-C8F9C23CBF73}|AcademiaDoZe.Application\\AcademiaDoZe.Application.csproj|solutionrelative:academiadoze.application\\dtos\\arquivodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6AD920F6-130A-FE18-7A30-C8F9C23CBF73}|AcademiaDoZe.Application\\AcademiaDoZe.Application.csproj|c:\\users\\es874\\trabalhos tio lu\\c#\\academiadoze\\academiadoze.application\\dtos\\alunodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6AD920F6-130A-FE18-7A30-C8F9C23CBF73}|AcademiaDoZe.Application\\AcademiaDoZe.Application.csproj|c:\\users\\es874\\trabalhos tio lu\\academia\\academiadoze.application\\dtos\\alunodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6AD920F6-130A-FE18-7A30-C8F9C23CBF73}|AcademiaDoZe.Application\\AcademiaDoZe.Application.csproj|solutionrelative:academiadoze.application\\dtos\\alunodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FA6D9924-63A8-401A-962F-9D0DC9C4043E}|AcademiaDoZe.Domain\\AcademiaDoZe.Domain.csproj|c:\\users\\es874\\trabalhos tio lu\\c#\\academiadoze\\academiadoze.domain\\entities\\colaborador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FA6D9924-63A8-401A-962F-9D0DC9C4043E}|AcademiaDoZe.Domain\\AcademiaDoZe.Domain.csproj|c:\\users\\es874\\trabalhos tio lu\\academia\\academiadoze.domain\\entities\\colaborador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FA6D9924-63A8-401A-962F-9D0DC9C4043E}|AcademiaDoZe.Domain\\AcademiaDoZe.Domain.csproj|solutionrelative:academiadoze.domain\\entities\\colaborador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FA6D9924-63A8-401A-962F-9D0DC9C4043E}|AcademiaDoZe.Domain\\AcademiaDoZe.Domain.csproj|c:\\users\\es874\\trabalhos tio lu\\c#\\academiadoze\\academiadoze.domain\\entities\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FA6D9924-63A8-401A-962F-9D0DC9C4043E}|AcademiaDoZe.Domain\\AcademiaDoZe.Domain.csproj|c:\\users\\es874\\trabalhos tio lu\\academia\\academiadoze.domain\\entities\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FA6D9924-63A8-401A-962F-9D0DC9C4043E}|AcademiaDoZe.Domain\\AcademiaDoZe.Domain.csproj|solutionrelative:academiadoze.domain\\entities\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FA6D9924-63A8-401A-962F-9D0DC9C4043E}|AcademiaDoZe.Domain\\AcademiaDoZe.Domain.csproj|c:\\users\\es874\\trabalhos tio lu\\c#\\academiadoze\\academiadoze.domain\\entities\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FA6D9924-63A8-401A-962F-9D0DC9C4043E}|AcademiaDoZe.Domain\\AcademiaDoZe.Domain.csproj|c:\\users\\es874\\trabalhos tio lu\\academia\\academiadoze.domain\\entities\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FA6D9924-63A8-401A-962F-9D0DC9C4043E}|AcademiaDoZe.Domain\\AcademiaDoZe.Domain.csproj|solutionrelative:academiadoze.domain\\entities\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A09E9BBB-60AC-4407-9A36-61AD266C6F82}|AcademiaDoZe.Presentation.AppMaui\\AcademiaDoZe.Presentation.AppMaui.csproj|c:\\users\\es874\\trabalhos tio lu\\c#\\academiadoze\\academiadoze.presentation.appmaui\\views\\dashboardlistpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{A09E9BBB-60AC-4407-9A36-61AD266C6F82}|AcademiaDoZe.Presentation.AppMaui\\AcademiaDoZe.Presentation.AppMaui.csproj|c:\\users\\es874\\trabalhos tio lu\\academia\\academiadoze.presentation.appmaui\\views\\dashboardlistpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{A09E9BBB-60AC-4407-9A36-61AD266C6F82}|AcademiaDoZe.Presentation.AppMaui\\AcademiaDoZe.Presentation.AppMaui.csproj|solutionrelative:academiadoze.presentation.appmaui\\views\\dashboardlistpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A09E9BBB-60AC-4407-9A36-61AD266C6F82}|AcademiaDoZe.Presentation.AppMaui\\AcademiaDoZe.Presentation.AppMaui.csproj|c:\\users\\es874\\trabalhos tio lu\\c#\\academiadoze\\academiadoze.presentation.appmaui\\views\\alunopage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A09E9BBB-60AC-4407-9A36-61AD266C6F82}|AcademiaDoZe.Presentation.AppMaui\\AcademiaDoZe.Presentation.AppMaui.csproj|c:\\users\\es874\\trabalhos tio lu\\academia\\academiadoze.presentation.appmaui\\views\\alunopage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A09E9BBB-60AC-4407-9A36-61AD266C6F82}|AcademiaDoZe.Presentation.AppMaui\\AcademiaDoZe.Presentation.AppMaui.csproj|solutionrelative:academiadoze.presentation.appmaui\\views\\alunopage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A09E9BBB-60AC-4407-9A36-61AD266C6F82}|AcademiaDoZe.Presentation.AppMaui\\AcademiaDoZe.Presentation.AppMaui.csproj|c:\\users\\es874\\trabalhos tio lu\\c#\\academiadoze\\academiadoze.presentation.appmaui\\views\\alunolistpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A09E9BBB-60AC-4407-9A36-61AD266C6F82}|AcademiaDoZe.Presentation.AppMaui\\AcademiaDoZe.Presentation.AppMaui.csproj|c:\\users\\es874\\trabalhos tio lu\\academia\\academiadoze.presentation.appmaui\\views\\alunolistpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A09E9BBB-60AC-4407-9A36-61AD266C6F82}|AcademiaDoZe.Presentation.AppMaui\\AcademiaDoZe.Presentation.AppMaui.csproj|solutionrelative:academiadoze.presentation.appmaui\\views\\alunolistpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A09E9BBB-60AC-4407-9A36-61AD266C6F82}|AcademiaDoZe.Presentation.AppMaui\\AcademiaDoZe.Presentation.AppMaui.csproj|c:\\users\\es874\\trabalhos tio lu\\c#\\academiadoze\\academiadoze.presentation.appmaui\\viewmodels\\alunoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A09E9BBB-60AC-4407-9A36-61AD266C6F82}|AcademiaDoZe.Presentation.AppMaui\\AcademiaDoZe.Presentation.AppMaui.csproj|solutionrelative:academiadoze.presentation.appmaui\\viewmodels\\alunoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A09E9BBB-60AC-4407-9A36-61AD266C6F82}|AcademiaDoZe.Presentation.AppMaui\\AcademiaDoZe.Presentation.AppMaui.csproj|c:\\users\\es874\\trabalhos tio lu\\c#\\academiadoze\\academiadoze.presentation.appmaui\\viewmodels\\alunolistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A09E9BBB-60AC-4407-9A36-61AD266C6F82}|AcademiaDoZe.Presentation.AppMaui\\AcademiaDoZe.Presentation.AppMaui.csproj|solutionrelative:academiadoze.presentation.appmaui\\viewmodels\\alunolistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A09E9BBB-60AC-4407-9A36-61AD266C6F82}|AcademiaDoZe.Presentation.AppMaui\\AcademiaDoZe.Presentation.AppMaui.csproj|c:\\users\\es874\\trabalhos tio lu\\c#\\academiadoze\\academiadoze.presentation.appmaui\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A09E9BBB-60AC-4407-9A36-61AD266C6F82}|AcademiaDoZe.Presentation.AppMaui\\AcademiaDoZe.Presentation.AppMaui.csproj|solutionrelative:academiadoze.presentation.appmaui\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -128,329 +184,477 @@
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "AlunoMappings.cs",
-              "DocumentMoniker": "C:\\Users\\es874\\TRABALHOS TIO LU\\C#\\AcademiaDoZe\\AcademiaDoZe.Application\\Mappings\\AlunoMappings.cs",
-              "RelativeDocumentMoniker": "AcademiaDoZe.Application\\Mappings\\AlunoMappings.cs",
-              "ToolTip": "C:\\Users\\es874\\TRABALHOS TIO LU\\C#\\AcademiaDoZe\\AcademiaDoZe.Application\\Mappings\\AlunoMappings.cs",
-              "RelativeToolTip": "AcademiaDoZe.Application\\Mappings\\AlunoMappings.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-19T21:16:25.644Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AlunoPage.xaml",
-              "DocumentMoniker": "C:\\Users\\es874\\TRABALHOS TIO LU\\C#\\AcademiaDoZe\\AcademiaDoZe.Presentation.AppMaui\\Views\\AlunoPage.xaml",
-              "RelativeDocumentMoniker": "AcademiaDoZe.Presentation.AppMaui\\Views\\AlunoPage.xaml",
-              "ToolTip": "C:\\Users\\es874\\TRABALHOS TIO LU\\C#\\AcademiaDoZe\\AcademiaDoZe.Presentation.AppMaui\\Views\\AlunoPage.xaml",
-              "RelativeToolTip": "AcademiaDoZe.Presentation.AppMaui\\Views\\AlunoPage.xaml",
-              "ViewState": "AgIAAG8AAAAAAAAAAAAAAHsAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-10-19T21:00:36.307Z",
-              "EditorCaption": ""
+              "DocumentIndex": 2,
+              "Title": "MatriculaPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\es874\\TRABALHOS TIO LU\\ACADEMIA\\AcademiaDoZe.Presentation.AppMaui\\Views\\MatriculaPage.xaml.cs",
+              "RelativeDocumentMoniker": "AcademiaDoZe.Presentation.AppMaui\\Views\\MatriculaPage.xaml.cs",
+              "ToolTip": "C:\\Users\\es874\\TRABALHOS TIO LU\\ACADEMIA\\AcademiaDoZe.Presentation.AppMaui\\Views\\MatriculaPage.xaml.cs",
+              "RelativeToolTip": "AcademiaDoZe.Presentation.AppMaui\\Views\\MatriculaPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T00:22:12.278Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "AlunoListPage.xaml",
-              "DocumentMoniker": "C:\\Users\\es874\\TRABALHOS TIO LU\\C#\\AcademiaDoZe\\AcademiaDoZe.Presentation.AppMaui\\Views\\AlunoListPage.xaml",
-              "RelativeDocumentMoniker": "AcademiaDoZe.Presentation.AppMaui\\Views\\AlunoListPage.xaml",
-              "ToolTip": "C:\\Users\\es874\\TRABALHOS TIO LU\\C#\\AcademiaDoZe\\AcademiaDoZe.Presentation.AppMaui\\Views\\AlunoListPage.xaml",
-              "RelativeToolTip": "AcademiaDoZe.Presentation.AppMaui\\Views\\AlunoListPage.xaml",
-              "ViewState": "AgIAAJMAAAAAAAAAAAAAAKMAAAAOAAAAAAAAAA==",
+              "Title": "MatriculaPage.xaml",
+              "DocumentMoniker": "C:\\Users\\es874\\TRABALHOS TIO LU\\ACADEMIA\\AcademiaDoZe.Presentation.AppMaui\\Views\\MatriculaPage.xaml",
+              "RelativeDocumentMoniker": "AcademiaDoZe.Presentation.AppMaui\\Views\\MatriculaPage.xaml",
+              "ToolTip": "C:\\Users\\es874\\TRABALHOS TIO LU\\ACADEMIA\\AcademiaDoZe.Presentation.AppMaui\\Views\\MatriculaPage.xaml",
+              "RelativeToolTip": "AcademiaDoZe.Presentation.AppMaui\\Views\\MatriculaPage.xaml",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwC0AAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-10-19T20:58:01.341Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "App.xaml",
-              "DocumentMoniker": "C:\\Users\\es874\\TRABALHOS TIO LU\\C#\\AcademiaDoZe\\AcademiaDoZe.Presentation.AppMaui\\App.xaml",
-              "RelativeDocumentMoniker": "AcademiaDoZe.Presentation.AppMaui\\App.xaml",
-              "ToolTip": "C:\\Users\\es874\\TRABALHOS TIO LU\\C#\\AcademiaDoZe\\AcademiaDoZe.Presentation.AppMaui\\App.xaml",
-              "RelativeToolTip": "AcademiaDoZe.Presentation.AppMaui\\App.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-10-19T17:05:27.649Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AppShell.xaml",
-              "DocumentMoniker": "C:\\Users\\es874\\TRABALHOS TIO LU\\C#\\AcademiaDoZe\\AcademiaDoZe.Presentation.AppMaui\\AppShell.xaml",
-              "RelativeDocumentMoniker": "AcademiaDoZe.Presentation.AppMaui\\AppShell.xaml",
-              "ToolTip": "C:\\Users\\es874\\TRABALHOS TIO LU\\C#\\AcademiaDoZe\\AcademiaDoZe.Presentation.AppMaui\\AppShell.xaml",
-              "RelativeToolTip": "AcademiaDoZe.Presentation.AppMaui\\AppShell.xaml",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAACQAAABcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-10-19T17:05:17.786Z",
+              "WhenOpened": "2025-11-28T00:21:56.179Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "MainPage.xaml",
-              "DocumentMoniker": "C:\\Users\\es874\\TRABALHOS TIO LU\\C#\\AcademiaDoZe\\AcademiaDoZe.Presentation.AppMaui\\MainPage.xaml",
-              "RelativeDocumentMoniker": "AcademiaDoZe.Presentation.AppMaui\\MainPage.xaml",
-              "ToolTip": "C:\\Users\\es874\\TRABALHOS TIO LU\\C#\\AcademiaDoZe\\AcademiaDoZe.Presentation.AppMaui\\MainPage.xaml",
-              "RelativeToolTip": "AcademiaDoZe.Presentation.AppMaui\\MainPage.xaml",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "MatriculaListPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\es874\\TRABALHOS TIO LU\\ACADEMIA\\AcademiaDoZe.Presentation.AppMaui\\Views\\MatriculaListPage.xaml.cs",
+              "RelativeDocumentMoniker": "AcademiaDoZe.Presentation.AppMaui\\Views\\MatriculaListPage.xaml.cs",
+              "ToolTip": "C:\\Users\\es874\\TRABALHOS TIO LU\\ACADEMIA\\AcademiaDoZe.Presentation.AppMaui\\Views\\MatriculaListPage.xaml.cs",
+              "RelativeToolTip": "AcademiaDoZe.Presentation.AppMaui\\Views\\MatriculaListPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T00:21:27.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MatriculaListPage.xaml",
+              "DocumentMoniker": "C:\\Users\\es874\\TRABALHOS TIO LU\\ACADEMIA\\AcademiaDoZe.Presentation.AppMaui\\Views\\MatriculaListPage.xaml",
+              "RelativeDocumentMoniker": "AcademiaDoZe.Presentation.AppMaui\\Views\\MatriculaListPage.xaml",
+              "ToolTip": "C:\\Users\\es874\\TRABALHOS TIO LU\\ACADEMIA\\AcademiaDoZe.Presentation.AppMaui\\Views\\MatriculaListPage.xaml",
+              "RelativeToolTip": "AcademiaDoZe.Presentation.AppMaui\\Views\\MatriculaListPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJsAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-10-19T21:03:29.251Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-28T00:20:59.106Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MauiProgram.cs",
-              "DocumentMoniker": "C:\\Users\\es874\\TRABALHOS TIO LU\\C#\\AcademiaDoZe\\AcademiaDoZe.Presentation.AppMaui\\MauiProgram.cs",
-              "RelativeDocumentMoniker": "AcademiaDoZe.Presentation.AppMaui\\MauiProgram.cs",
-              "ToolTip": "C:\\Users\\es874\\TRABALHOS TIO LU\\C#\\AcademiaDoZe\\AcademiaDoZe.Presentation.AppMaui\\MauiProgram.cs",
-              "RelativeToolTip": "AcademiaDoZe.Presentation.AppMaui\\MauiProgram.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAQwCoAAAA3AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-19T17:06:24.492Z",
-              "EditorCaption": ""
+              "DocumentIndex": 5,
+              "Title": "ColaboradorListPage.xaml",
+              "DocumentMoniker": "C:\\Users\\es874\\TRABALHOS TIO LU\\ACADEMIA\\AcademiaDoZe.Presentation.AppMaui\\Views\\ColaboradorListPage.xaml",
+              "RelativeDocumentMoniker": "AcademiaDoZe.Presentation.AppMaui\\Views\\ColaboradorListPage.xaml",
+              "ToolTip": "C:\\Users\\es874\\TRABALHOS TIO LU\\ACADEMIA\\AcademiaDoZe.Presentation.AppMaui\\Views\\ColaboradorListPage.xaml",
+              "RelativeToolTip": "AcademiaDoZe.Presentation.AppMaui\\Views\\ColaboradorListPage.xaml",
+              "ViewState": "AgIAAI0AAAAAAAAAAAAAAIQAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-28T00:19:39.927Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "AlunoRepository.cs",
-              "DocumentMoniker": "C:\\Users\\es874\\source\\repos\\AcademiaDoZeee\\AcademiaDoZe.Infrastructure\\Repositories\\AlunoRepository.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\AcademiaDoZeee\\AcademiaDoZe.Infrastructure\\Repositories\\AlunoRepository.cs",
-              "ToolTip": "C:\\Users\\es874\\source\\repos\\AcademiaDoZeee\\AcademiaDoZe.Infrastructure\\Repositories\\AlunoRepository.cs",
-              "RelativeToolTip": "..\\..\\..\\source\\repos\\AcademiaDoZeee\\AcademiaDoZe.Infrastructure\\Repositories\\AlunoRepository.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAApwDgAAAApAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "MatriculaViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\es874\\TRABALHOS TIO LU\\ACADEMIA\\AcademiaDoZe.Presentation.AppMaui\\ViewModels\\MatriculaViewModel.cs",
+              "RelativeDocumentMoniker": "AcademiaDoZe.Presentation.AppMaui\\ViewModels\\MatriculaViewModel.cs",
+              "ToolTip": "C:\\Users\\es874\\TRABALHOS TIO LU\\ACADEMIA\\AcademiaDoZe.Presentation.AppMaui\\ViewModels\\MatriculaViewModel.cs",
+              "RelativeToolTip": "AcademiaDoZe.Presentation.AppMaui\\ViewModels\\MatriculaViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAP0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-19T21:21:27.995Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "AlunoService.cs",
-              "DocumentMoniker": "C:\\Users\\es874\\TRABALHOS TIO LU\\C#\\AcademiaDoZe\\AcademiaDoZe.Application\\Services\\AlunoService.cs",
-              "RelativeDocumentMoniker": "AcademiaDoZe.Application\\Services\\AlunoService.cs",
-              "ToolTip": "C:\\Users\\es874\\TRABALHOS TIO LU\\C#\\AcademiaDoZe\\AcademiaDoZe.Application\\Services\\AlunoService.cs",
-              "RelativeToolTip": "AcademiaDoZe.Application\\Services\\AlunoService.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-19T21:26:57.247Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "MoqAlunoServiceTests.cs",
-              "DocumentMoniker": "C:\\Users\\es874\\TRABALHOS TIO LU\\C#\\AcademiaDoZe\\AcademiaDoZe.Application.Tests\\Moq\\MoqAlunoServiceTests.cs",
-              "RelativeDocumentMoniker": "AcademiaDoZe.Application.Tests\\Moq\\MoqAlunoServiceTests.cs",
-              "ToolTip": "C:\\Users\\es874\\TRABALHOS TIO LU\\C#\\AcademiaDoZe\\AcademiaDoZe.Application.Tests\\Moq\\MoqAlunoServiceTests.cs",
-              "RelativeToolTip": "AcademiaDoZe.Application.Tests\\Moq\\MoqAlunoServiceTests.cs",
-              "ViewState": "AgIAAEgAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-19T21:27:20.603Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-28T00:18:15.418Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "AlunoApplicationTests.cs",
-              "DocumentMoniker": "C:\\Users\\es874\\TRABALHOS TIO LU\\C#\\AcademiaDoZe\\AcademiaDoZe.Application.Tests\\ApplicationTests\\AlunoApplicationTests.cs",
-              "RelativeDocumentMoniker": "AcademiaDoZe.Application.Tests\\ApplicationTests\\AlunoApplicationTests.cs",
-              "ToolTip": "C:\\Users\\es874\\TRABALHOS TIO LU\\C#\\AcademiaDoZe\\AcademiaDoZe.Application.Tests\\ApplicationTests\\AlunoApplicationTests.cs",
-              "RelativeToolTip": "AcademiaDoZe.Application.Tests\\ApplicationTests\\AlunoApplicationTests.cs",
-              "ViewState": "AgIAAGEAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Title": "MatriculaListViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\es874\\TRABALHOS TIO LU\\ACADEMIA\\AcademiaDoZe.Presentation.AppMaui\\ViewModels\\MatriculaListViewModel.cs",
+              "RelativeDocumentMoniker": "AcademiaDoZe.Presentation.AppMaui\\ViewModels\\MatriculaListViewModel.cs",
+              "ToolTip": "C:\\Users\\es874\\TRABALHOS TIO LU\\ACADEMIA\\AcademiaDoZe.Presentation.AppMaui\\ViewModels\\MatriculaListViewModel.cs",
+              "RelativeToolTip": "AcademiaDoZe.Presentation.AppMaui\\ViewModels\\MatriculaListViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-19T21:27:32.908Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "AcessoRepository.cs",
-              "DocumentMoniker": "C:\\Users\\es874\\TRABALHOS TIO LU\\C#\\AcademiaDoZe\\AcademiaDoZe.Infrastructure\\Repositories\\AcessoRepository.cs",
-              "RelativeDocumentMoniker": "AcademiaDoZe.Infrastructure\\Repositories\\AcessoRepository.cs",
-              "ToolTip": "C:\\Users\\es874\\TRABALHOS TIO LU\\C#\\AcademiaDoZe\\AcademiaDoZe.Infrastructure\\Repositories\\AcessoRepository.cs",
-              "RelativeToolTip": "AcademiaDoZe.Infrastructure\\Repositories\\AcessoRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-19T21:27:57.82Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "IAlunoService.cs",
-              "DocumentMoniker": "C:\\Users\\es874\\TRABALHOS TIO LU\\C#\\AcademiaDoZe\\AcademiaDoZe.Application\\Interfaces\\IAlunoService.cs",
-              "RelativeDocumentMoniker": "AcademiaDoZe.Application\\Interfaces\\IAlunoService.cs",
-              "ToolTip": "C:\\Users\\es874\\TRABALHOS TIO LU\\C#\\AcademiaDoZe\\AcademiaDoZe.Application\\Interfaces\\IAlunoService.cs",
-              "RelativeToolTip": "AcademiaDoZe.Application\\Interfaces\\IAlunoService.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-19T21:16:14.715Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-28T00:17:33.727Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "ColaboradorDTO.cs",
-              "DocumentMoniker": "C:\\Users\\es874\\TRABALHOS TIO LU\\C#\\AcademiaDoZe\\AcademiaDoZe.Application\\DTOs\\ColaboradorDTO.cs",
-              "RelativeDocumentMoniker": "AcademiaDoZe.Application\\DTOs\\ColaboradorDTO.cs",
-              "ToolTip": "C:\\Users\\es874\\TRABALHOS TIO LU\\C#\\AcademiaDoZe\\AcademiaDoZe.Application\\DTOs\\ColaboradorDTO.cs",
-              "RelativeToolTip": "AcademiaDoZe.Application\\DTOs\\ColaboradorDTO.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Title": "MatriculaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\es874\\TRABALHOS TIO LU\\ACADEMIA\\AcademiaDoZe.Infrastructure\\Repositories\\MatriculaRepository.cs",
+              "RelativeDocumentMoniker": "AcademiaDoZe.Infrastructure\\Repositories\\MatriculaRepository.cs",
+              "ToolTip": "C:\\Users\\es874\\TRABALHOS TIO LU\\ACADEMIA\\AcademiaDoZe.Infrastructure\\Repositories\\MatriculaRepository.cs",
+              "RelativeToolTip": "AcademiaDoZe.Infrastructure\\Repositories\\MatriculaRepository.cs",
+              "ViewState": "AgIAAI8AAAAAAAAAAAAQwNQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-19T21:16:02.606Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-28T00:11:50.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\es874\\TRABALHOS TIO LU\\ACADEMIA\\AcademiaDoZe.Presentation.AppMaui\\AppShell.xaml",
+              "RelativeDocumentMoniker": "AcademiaDoZe.Presentation.AppMaui\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\es874\\TRABALHOS TIO LU\\ACADEMIA\\AcademiaDoZe.Presentation.AppMaui\\AppShell.xaml",
+              "RelativeToolTip": "AcademiaDoZe.Presentation.AppMaui\\AppShell.xaml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-19T17:05:17.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\es874\\TRABALHOS TIO LU\\ACADEMIA\\AcademiaDoZe.Presentation.AppMaui\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "AcademiaDoZe.Presentation.AppMaui\\AppShell.xaml.cs",
+              "ToolTip": "C:\\Users\\es874\\TRABALHOS TIO LU\\ACADEMIA\\AcademiaDoZe.Presentation.AppMaui\\AppShell.xaml.cs",
+              "RelativeToolTip": "AcademiaDoZe.Presentation.AppMaui\\AppShell.xaml.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T17:06:10.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\es874\\TRABALHOS TIO LU\\ACADEMIA\\AcademiaDoZe.Presentation.AppMaui\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "AcademiaDoZe.Presentation.AppMaui\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\es874\\TRABALHOS TIO LU\\ACADEMIA\\AcademiaDoZe.Presentation.AppMaui\\MauiProgram.cs",
+              "RelativeToolTip": "AcademiaDoZe.Presentation.AppMaui\\MauiProgram.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAgwDwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T17:06:24.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AlunoListPage.xaml",
+              "DocumentMoniker": "C:\\Users\\es874\\TRABALHOS TIO LU\\ACADEMIA\\AcademiaDoZe.Presentation.AppMaui\\Views\\AlunoListPage.xaml",
+              "RelativeDocumentMoniker": "AcademiaDoZe.Presentation.AppMaui\\Views\\AlunoListPage.xaml",
+              "ToolTip": "C:\\Users\\es874\\TRABALHOS TIO LU\\ACADEMIA\\AcademiaDoZe.Presentation.AppMaui\\Views\\AlunoListPage.xaml",
+              "RelativeToolTip": "AcademiaDoZe.Presentation.AppMaui\\Views\\AlunoListPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-19T20:58:01.341Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
-              "Title": "ArquivoDTO.cs",
-              "DocumentMoniker": "C:\\Users\\es874\\TRABALHOS TIO LU\\C#\\AcademiaDoZe\\AcademiaDoZe.Application\\DTOs\\ArquivoDTO.cs",
-              "RelativeDocumentMoniker": "AcademiaDoZe.Application\\DTOs\\ArquivoDTO.cs",
-              "ToolTip": "C:\\Users\\es874\\TRABALHOS TIO LU\\C#\\AcademiaDoZe\\AcademiaDoZe.Application\\DTOs\\ArquivoDTO.cs",
-              "RelativeToolTip": "AcademiaDoZe.Application\\DTOs\\ArquivoDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "AlunoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\es874\\TRABALHOS TIO LU\\ACADEMIA\\AcademiaDoZe.Infrastructure\\Repositories\\AlunoRepository.cs",
+              "RelativeDocumentMoniker": "AcademiaDoZe.Infrastructure\\Repositories\\AlunoRepository.cs",
+              "ToolTip": "C:\\Users\\es874\\TRABALHOS TIO LU\\ACADEMIA\\AcademiaDoZe.Infrastructure\\Repositories\\AlunoRepository.cs",
+              "RelativeToolTip": "AcademiaDoZe.Infrastructure\\Repositories\\AlunoRepository.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAgwFAAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-19T21:16:01.297Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-28T00:07:51.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AlunoListViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\es874\\TRABALHOS TIO LU\\ACADEMIA\\AcademiaDoZe.Presentation.AppMaui\\ViewModels\\AlunoListViewModel.cs",
+              "RelativeDocumentMoniker": "AcademiaDoZe.Presentation.AppMaui\\ViewModels\\AlunoListViewModel.cs",
+              "ToolTip": "C:\\Users\\es874\\TRABALHOS TIO LU\\ACADEMIA\\AcademiaDoZe.Presentation.AppMaui\\ViewModels\\AlunoListViewModel.cs",
+              "RelativeToolTip": "AcademiaDoZe.Presentation.AppMaui\\ViewModels\\AlunoListViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAANIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T20:56:15.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AlunoViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\es874\\TRABALHOS TIO LU\\ACADEMIA\\AcademiaDoZe.Presentation.AppMaui\\ViewModels\\AlunoViewModel.cs",
+              "RelativeDocumentMoniker": "AcademiaDoZe.Presentation.AppMaui\\ViewModels\\AlunoViewModel.cs",
+              "ToolTip": "C:\\Users\\es874\\TRABALHOS TIO LU\\ACADEMIA\\AcademiaDoZe.Presentation.AppMaui\\ViewModels\\AlunoViewModel.cs",
+              "RelativeToolTip": "AcademiaDoZe.Presentation.AppMaui\\ViewModels\\AlunoViewModel.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwCoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T20:57:15.035Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
-              "Title": "AlunoDTO.cs",
-              "DocumentMoniker": "C:\\Users\\es874\\TRABALHOS TIO LU\\C#\\AcademiaDoZe\\AcademiaDoZe.Application\\DTOs\\AlunoDTO.cs",
-              "RelativeDocumentMoniker": "AcademiaDoZe.Application\\DTOs\\AlunoDTO.cs",
-              "ToolTip": "C:\\Users\\es874\\TRABALHOS TIO LU\\C#\\AcademiaDoZe\\AcademiaDoZe.Application\\DTOs\\AlunoDTO.cs",
-              "RelativeToolTip": "AcademiaDoZe.Application\\DTOs\\AlunoDTO.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "IMatriculaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\es874\\TRABALHOS TIO LU\\ACADEMIA\\AcademiaDoZe.Domain\\Repositories\\IMatriculaRepository.cs",
+              "RelativeDocumentMoniker": "AcademiaDoZe.Domain\\Repositories\\IMatriculaRepository.cs",
+              "ToolTip": "C:\\Users\\es874\\TRABALHOS TIO LU\\ACADEMIA\\AcademiaDoZe.Domain\\Repositories\\IMatriculaRepository.cs",
+              "RelativeToolTip": "AcademiaDoZe.Domain\\Repositories\\IMatriculaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-19T21:15:55.883Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-28T00:06:13.477Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 16,
-              "Title": "Colaborador.cs",
-              "DocumentMoniker": "C:\\Users\\es874\\TRABALHOS TIO LU\\C#\\AcademiaDoZe\\AcademiaDoZe.Domain\\Entities\\Colaborador.cs",
-              "RelativeDocumentMoniker": "AcademiaDoZe.Domain\\Entities\\Colaborador.cs",
-              "ToolTip": "C:\\Users\\es874\\TRABALHOS TIO LU\\C#\\AcademiaDoZe\\AcademiaDoZe.Domain\\Entities\\Colaborador.cs",
-              "RelativeToolTip": "AcademiaDoZe.Domain\\Entities\\Colaborador.cs",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Title": "Matricula.cs",
+              "DocumentMoniker": "C:\\Users\\es874\\TRABALHOS TIO LU\\ACADEMIA\\AcademiaDoZe.Domain\\Entities\\Matricula.cs",
+              "RelativeDocumentMoniker": "AcademiaDoZe.Domain\\Entities\\Matricula.cs",
+              "ToolTip": "C:\\Users\\es874\\TRABALHOS TIO LU\\ACADEMIA\\AcademiaDoZe.Domain\\Entities\\Matricula.cs",
+              "RelativeToolTip": "AcademiaDoZe.Domain\\Entities\\Matricula.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-19T21:15:25.291Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-28T00:05:43.124Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 17,
-              "Title": "Pessoa.cs",
-              "DocumentMoniker": "C:\\Users\\es874\\TRABALHOS TIO LU\\C#\\AcademiaDoZe\\AcademiaDoZe.Domain\\Entities\\Pessoa.cs",
-              "RelativeDocumentMoniker": "AcademiaDoZe.Domain\\Entities\\Pessoa.cs",
-              "ToolTip": "C:\\Users\\es874\\TRABALHOS TIO LU\\C#\\AcademiaDoZe\\AcademiaDoZe.Domain\\Entities\\Pessoa.cs",
-              "RelativeToolTip": "AcademiaDoZe.Domain\\Entities\\Pessoa.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAswAAAAAAAAAAAAAAAAA==",
+              "Title": "MatriculaService.cs",
+              "DocumentMoniker": "C:\\Users\\es874\\TRABALHOS TIO LU\\ACADEMIA\\AcademiaDoZe.Application\\Services\\MatriculaService.cs",
+              "RelativeDocumentMoniker": "AcademiaDoZe.Application\\Services\\MatriculaService.cs",
+              "ToolTip": "C:\\Users\\es874\\TRABALHOS TIO LU\\ACADEMIA\\AcademiaDoZe.Application\\Services\\MatriculaService.cs",
+              "RelativeToolTip": "AcademiaDoZe.Application\\Services\\MatriculaService.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAkwFMAAABMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-19T21:15:19.793Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-28T00:03:39.709Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 18,
-              "Title": "Aluno.cs",
-              "DocumentMoniker": "C:\\Users\\es874\\TRABALHOS TIO LU\\C#\\AcademiaDoZe\\AcademiaDoZe.Domain\\Entities\\Aluno.cs",
-              "RelativeDocumentMoniker": "AcademiaDoZe.Domain\\Entities\\Aluno.cs",
-              "ToolTip": "C:\\Users\\es874\\TRABALHOS TIO LU\\C#\\AcademiaDoZe\\AcademiaDoZe.Domain\\Entities\\Aluno.cs",
-              "RelativeToolTip": "AcademiaDoZe.Domain\\Entities\\Aluno.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "IMatriculaService.cs",
+              "DocumentMoniker": "C:\\Users\\es874\\TRABALHOS TIO LU\\ACADEMIA\\AcademiaDoZe.Application\\Interfaces\\IMatriculaService.cs",
+              "RelativeDocumentMoniker": "AcademiaDoZe.Application\\Interfaces\\IMatriculaService.cs",
+              "ToolTip": "C:\\Users\\es874\\TRABALHOS TIO LU\\ACADEMIA\\AcademiaDoZe.Application\\Interfaces\\IMatriculaService.cs",
+              "RelativeToolTip": "AcademiaDoZe.Application\\Interfaces\\IMatriculaService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-19T21:14:57.228Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "AlunoPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\es874\\TRABALHOS TIO LU\\C#\\AcademiaDoZe\\AcademiaDoZe.Presentation.AppMaui\\Views\\AlunoPage.xaml.cs",
-              "RelativeDocumentMoniker": "AcademiaDoZe.Presentation.AppMaui\\Views\\AlunoPage.xaml.cs",
-              "ToolTip": "C:\\Users\\es874\\TRABALHOS TIO LU\\C#\\AcademiaDoZe\\AcademiaDoZe.Presentation.AppMaui\\Views\\AlunoPage.xaml.cs",
-              "RelativeToolTip": "AcademiaDoZe.Presentation.AppMaui\\Views\\AlunoPage.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-19T21:01:07.616Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "AlunoViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\es874\\TRABALHOS TIO LU\\C#\\AcademiaDoZe\\AcademiaDoZe.Presentation.AppMaui\\ViewModels\\AlunoViewModel.cs",
-              "RelativeDocumentMoniker": "AcademiaDoZe.Presentation.AppMaui\\ViewModels\\AlunoViewModel.cs",
-              "ToolTip": "C:\\Users\\es874\\TRABALHOS TIO LU\\C#\\AcademiaDoZe\\AcademiaDoZe.Presentation.AppMaui\\ViewModels\\AlunoViewModel.cs",
-              "RelativeToolTip": "AcademiaDoZe.Presentation.AppMaui\\ViewModels\\AlunoViewModel.cs",
-              "ViewState": "AgIAAPwAAAAAAAAAAAAiwBMBAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-19T20:57:15.035Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "AlunoListViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\es874\\TRABALHOS TIO LU\\C#\\AcademiaDoZe\\AcademiaDoZe.Presentation.AppMaui\\ViewModels\\AlunoListViewModel.cs",
-              "RelativeDocumentMoniker": "AcademiaDoZe.Presentation.AppMaui\\ViewModels\\AlunoListViewModel.cs",
-              "ToolTip": "C:\\Users\\es874\\TRABALHOS TIO LU\\C#\\AcademiaDoZe\\AcademiaDoZe.Presentation.AppMaui\\ViewModels\\AlunoListViewModel.cs",
-              "RelativeToolTip": "AcademiaDoZe.Presentation.AppMaui\\ViewModels\\AlunoListViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAANIAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-19T20:56:15.901Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-28T00:02:59.611Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 19,
-              "Title": "DashboardListPage.xaml",
-              "DocumentMoniker": "C:\\Users\\es874\\TRABALHOS TIO LU\\C#\\AcademiaDoZe\\AcademiaDoZe.Presentation.AppMaui\\Views\\DashboardListPage.xaml",
-              "RelativeDocumentMoniker": "AcademiaDoZe.Presentation.AppMaui\\Views\\DashboardListPage.xaml",
-              "ToolTip": "C:\\Users\\es874\\TRABALHOS TIO LU\\C#\\AcademiaDoZe\\AcademiaDoZe.Presentation.AppMaui\\Views\\DashboardListPage.xaml",
-              "RelativeToolTip": "AcademiaDoZe.Presentation.AppMaui\\Views\\DashboardListPage.xaml",
-              "ViewState": "AgIAACcAAAAAAAAAAAAAAC0AAABEAAAAAAAAAA==",
+              "Title": "MatriculaApplicationTests.cs",
+              "DocumentMoniker": "C:\\Users\\es874\\TRABALHOS TIO LU\\ACADEMIA\\AcademiaDoZe.Application.Tests\\ApplicationTests\\MatriculaApplicationTests.cs",
+              "RelativeDocumentMoniker": "AcademiaDoZe.Application.Tests\\ApplicationTests\\MatriculaApplicationTests.cs",
+              "ToolTip": "C:\\Users\\es874\\TRABALHOS TIO LU\\ACADEMIA\\AcademiaDoZe.Application.Tests\\ApplicationTests\\MatriculaApplicationTests.cs",
+              "RelativeToolTip": "AcademiaDoZe.Application.Tests\\ApplicationTests\\MatriculaApplicationTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T23:59:59.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AlunoMappings.cs",
+              "DocumentMoniker": "C:\\Users\\es874\\TRABALHOS TIO LU\\ACADEMIA\\AcademiaDoZe.Application\\Mappings\\AlunoMappings.cs",
+              "RelativeDocumentMoniker": "AcademiaDoZe.Application\\Mappings\\AlunoMappings.cs",
+              "ToolTip": "C:\\Users\\es874\\TRABALHOS TIO LU\\ACADEMIA\\AcademiaDoZe.Application\\Mappings\\AlunoMappings.cs",
+              "RelativeToolTip": "AcademiaDoZe.Application\\Mappings\\AlunoMappings.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T21:16:25.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AlunoPage.xaml",
+              "DocumentMoniker": "C:\\Users\\es874\\TRABALHOS TIO LU\\ACADEMIA\\AcademiaDoZe.Presentation.AppMaui\\Views\\AlunoPage.xaml",
+              "RelativeDocumentMoniker": "AcademiaDoZe.Presentation.AppMaui\\Views\\AlunoPage.xaml",
+              "ToolTip": "C:\\Users\\es874\\TRABALHOS TIO LU\\ACADEMIA\\AcademiaDoZe.Presentation.AppMaui\\Views\\AlunoPage.xaml",
+              "RelativeToolTip": "AcademiaDoZe.Presentation.AppMaui\\Views\\AlunoPage.xaml",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAAAHsAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-10-19T17:05:38.046Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-19T21:00:36.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\es874\\TRABALHOS TIO LU\\ACADEMIA\\AcademiaDoZe.Presentation.AppMaui\\App.xaml",
+              "RelativeDocumentMoniker": "AcademiaDoZe.Presentation.AppMaui\\App.xaml",
+              "ToolTip": "C:\\Users\\es874\\TRABALHOS TIO LU\\ACADEMIA\\AcademiaDoZe.Presentation.AppMaui\\App.xaml",
+              "RelativeToolTip": "AcademiaDoZe.Presentation.AppMaui\\App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-19T17:05:27.649Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 21,
-              "Title": "AlunoListPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\es874\\TRABALHOS TIO LU\\C#\\AcademiaDoZe\\AcademiaDoZe.Presentation.AppMaui\\Views\\AlunoListPage.xaml.cs",
-              "RelativeDocumentMoniker": "AcademiaDoZe.Presentation.AppMaui\\Views\\AlunoListPage.xaml.cs",
-              "ToolTip": "C:\\Users\\es874\\TRABALHOS TIO LU\\C#\\AcademiaDoZe\\AcademiaDoZe.Presentation.AppMaui\\Views\\AlunoListPage.xaml.cs",
-              "RelativeToolTip": "AcademiaDoZe.Presentation.AppMaui\\Views\\AlunoListPage.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAABAAAAAAAAAA==",
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\es874\\TRABALHOS TIO LU\\ACADEMIA\\AcademiaDoZe.Presentation.AppMaui\\MainPage.xaml",
+              "RelativeDocumentMoniker": "AcademiaDoZe.Presentation.AppMaui\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\es874\\TRABALHOS TIO LU\\ACADEMIA\\AcademiaDoZe.Presentation.AppMaui\\MainPage.xaml",
+              "RelativeToolTip": "AcademiaDoZe.Presentation.AppMaui\\MainPage.xaml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-19T21:03:29.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AlunoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\es874\\source\\repos\\AcademiaDoZeee\\AcademiaDoZe.Infrastructure\\Repositories\\AlunoRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\source\\repos\\AcademiaDoZeee\\AcademiaDoZe.Infrastructure\\Repositories\\AlunoRepository.cs",
+              "ToolTip": "C:\\Users\\es874\\source\\repos\\AcademiaDoZeee\\AcademiaDoZe.Infrastructure\\Repositories\\AlunoRepository.cs",
+              "RelativeToolTip": "..\\..\\source\\repos\\AcademiaDoZeee\\AcademiaDoZe.Infrastructure\\Repositories\\AlunoRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAApwDgAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-19T20:58:39.33Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-19T21:21:27.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AlunoService.cs",
+              "DocumentMoniker": "C:\\Users\\es874\\TRABALHOS TIO LU\\ACADEMIA\\AcademiaDoZe.Application\\Services\\AlunoService.cs",
+              "RelativeDocumentMoniker": "AcademiaDoZe.Application\\Services\\AlunoService.cs",
+              "ToolTip": "C:\\Users\\es874\\TRABALHOS TIO LU\\ACADEMIA\\AcademiaDoZe.Application\\Services\\AlunoService.cs",
+              "RelativeToolTip": "AcademiaDoZe.Application\\Services\\AlunoService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T21:26:57.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "MoqAlunoServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\es874\\TRABALHOS TIO LU\\ACADEMIA\\AcademiaDoZe.Application.Tests\\Moq\\MoqAlunoServiceTests.cs",
+              "RelativeDocumentMoniker": "AcademiaDoZe.Application.Tests\\Moq\\MoqAlunoServiceTests.cs",
+              "ToolTip": "C:\\Users\\es874\\TRABALHOS TIO LU\\ACADEMIA\\AcademiaDoZe.Application.Tests\\Moq\\MoqAlunoServiceTests.cs",
+              "RelativeToolTip": "AcademiaDoZe.Application.Tests\\Moq\\MoqAlunoServiceTests.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T21:27:20.603Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 24,
-              "Title": "AppShell.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\es874\\TRABALHOS TIO LU\\C#\\AcademiaDoZe\\AcademiaDoZe.Presentation.AppMaui\\AppShell.xaml.cs",
-              "RelativeDocumentMoniker": "AcademiaDoZe.Presentation.AppMaui\\AppShell.xaml.cs",
-              "ToolTip": "C:\\Users\\es874\\TRABALHOS TIO LU\\C#\\AcademiaDoZe\\AcademiaDoZe.Presentation.AppMaui\\AppShell.xaml.cs",
-              "RelativeToolTip": "AcademiaDoZe.Presentation.AppMaui\\AppShell.xaml.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBcAAAAFAAAAAAAAAA==",
+              "Title": "AlunoApplicationTests.cs",
+              "DocumentMoniker": "C:\\Users\\es874\\TRABALHOS TIO LU\\ACADEMIA\\AcademiaDoZe.Application.Tests\\ApplicationTests\\AlunoApplicationTests.cs",
+              "RelativeDocumentMoniker": "AcademiaDoZe.Application.Tests\\ApplicationTests\\AlunoApplicationTests.cs",
+              "ToolTip": "C:\\Users\\es874\\TRABALHOS TIO LU\\ACADEMIA\\AcademiaDoZe.Application.Tests\\ApplicationTests\\AlunoApplicationTests.cs",
+              "RelativeToolTip": "AcademiaDoZe.Application.Tests\\ApplicationTests\\AlunoApplicationTests.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-19T17:06:10.016Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-19T21:27:32.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AcessoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\es874\\TRABALHOS TIO LU\\ACADEMIA\\AcademiaDoZe.Infrastructure\\Repositories\\AcessoRepository.cs",
+              "RelativeDocumentMoniker": "AcademiaDoZe.Infrastructure\\Repositories\\AcessoRepository.cs",
+              "ToolTip": "C:\\Users\\es874\\TRABALHOS TIO LU\\ACADEMIA\\AcademiaDoZe.Infrastructure\\Repositories\\AcessoRepository.cs",
+              "RelativeToolTip": "AcademiaDoZe.Infrastructure\\Repositories\\AcessoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T21:27:57.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IAlunoService.cs",
+              "DocumentMoniker": "C:\\Users\\es874\\TRABALHOS TIO LU\\ACADEMIA\\AcademiaDoZe.Application\\Interfaces\\IAlunoService.cs",
+              "RelativeDocumentMoniker": "AcademiaDoZe.Application\\Interfaces\\IAlunoService.cs",
+              "ToolTip": "C:\\Users\\es874\\TRABALHOS TIO LU\\ACADEMIA\\AcademiaDoZe.Application\\Interfaces\\IAlunoService.cs",
+              "RelativeToolTip": "AcademiaDoZe.Application\\Interfaces\\IAlunoService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T21:16:14.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ColaboradorDTO.cs",
+              "DocumentMoniker": "C:\\Users\\es874\\TRABALHOS TIO LU\\ACADEMIA\\AcademiaDoZe.Application\\DTOs\\ColaboradorDTO.cs",
+              "RelativeDocumentMoniker": "AcademiaDoZe.Application\\DTOs\\ColaboradorDTO.cs",
+              "ToolTip": "C:\\Users\\es874\\TRABALHOS TIO LU\\ACADEMIA\\AcademiaDoZe.Application\\DTOs\\ColaboradorDTO.cs",
+              "RelativeToolTip": "AcademiaDoZe.Application\\DTOs\\ColaboradorDTO.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T21:16:02.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ArquivoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\es874\\TRABALHOS TIO LU\\ACADEMIA\\AcademiaDoZe.Application\\DTOs\\ArquivoDTO.cs",
+              "RelativeDocumentMoniker": "AcademiaDoZe.Application\\DTOs\\ArquivoDTO.cs",
+              "ToolTip": "C:\\Users\\es874\\TRABALHOS TIO LU\\ACADEMIA\\AcademiaDoZe.Application\\DTOs\\ArquivoDTO.cs",
+              "RelativeToolTip": "AcademiaDoZe.Application\\DTOs\\ArquivoDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T21:16:01.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "AlunoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\es874\\TRABALHOS TIO LU\\ACADEMIA\\AcademiaDoZe.Application\\DTOs\\AlunoDTO.cs",
+              "RelativeDocumentMoniker": "AcademiaDoZe.Application\\DTOs\\AlunoDTO.cs",
+              "ToolTip": "C:\\Users\\es874\\TRABALHOS TIO LU\\ACADEMIA\\AcademiaDoZe.Application\\DTOs\\AlunoDTO.cs",
+              "RelativeToolTip": "AcademiaDoZe.Application\\DTOs\\AlunoDTO.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T21:15:55.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Colaborador.cs",
+              "DocumentMoniker": "C:\\Users\\es874\\TRABALHOS TIO LU\\ACADEMIA\\AcademiaDoZe.Domain\\Entities\\Colaborador.cs",
+              "RelativeDocumentMoniker": "AcademiaDoZe.Domain\\Entities\\Colaborador.cs",
+              "ToolTip": "C:\\Users\\es874\\TRABALHOS TIO LU\\ACADEMIA\\AcademiaDoZe.Domain\\Entities\\Colaborador.cs",
+              "RelativeToolTip": "AcademiaDoZe.Domain\\Entities\\Colaborador.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T21:15:25.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Pessoa.cs",
+              "DocumentMoniker": "C:\\Users\\es874\\TRABALHOS TIO LU\\ACADEMIA\\AcademiaDoZe.Domain\\Entities\\Pessoa.cs",
+              "RelativeDocumentMoniker": "AcademiaDoZe.Domain\\Entities\\Pessoa.cs",
+              "ToolTip": "C:\\Users\\es874\\TRABALHOS TIO LU\\ACADEMIA\\AcademiaDoZe.Domain\\Entities\\Pessoa.cs",
+              "RelativeToolTip": "AcademiaDoZe.Domain\\Entities\\Pessoa.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAswAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T21:15:19.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Aluno.cs",
+              "DocumentMoniker": "C:\\Users\\es874\\TRABALHOS TIO LU\\ACADEMIA\\AcademiaDoZe.Domain\\Entities\\Aluno.cs",
+              "RelativeDocumentMoniker": "AcademiaDoZe.Domain\\Entities\\Aluno.cs",
+              "ToolTip": "C:\\Users\\es874\\TRABALHOS TIO LU\\ACADEMIA\\AcademiaDoZe.Domain\\Entities\\Aluno.cs",
+              "RelativeToolTip": "AcademiaDoZe.Domain\\Entities\\Aluno.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T21:14:57.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "AlunoPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\es874\\TRABALHOS TIO LU\\ACADEMIA\\AcademiaDoZe.Presentation.AppMaui\\Views\\AlunoPage.xaml.cs",
+              "RelativeDocumentMoniker": "AcademiaDoZe.Presentation.AppMaui\\Views\\AlunoPage.xaml.cs",
+              "ToolTip": "C:\\Users\\es874\\TRABALHOS TIO LU\\ACADEMIA\\AcademiaDoZe.Presentation.AppMaui\\Views\\AlunoPage.xaml.cs",
+              "RelativeToolTip": "AcademiaDoZe.Presentation.AppMaui\\Views\\AlunoPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T21:01:07.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "DashboardListPage.xaml",
+              "DocumentMoniker": "C:\\Users\\es874\\TRABALHOS TIO LU\\ACADEMIA\\AcademiaDoZe.Presentation.AppMaui\\Views\\DashboardListPage.xaml",
+              "RelativeDocumentMoniker": "AcademiaDoZe.Presentation.AppMaui\\Views\\DashboardListPage.xaml",
+              "ToolTip": "C:\\Users\\es874\\TRABALHOS TIO LU\\ACADEMIA\\AcademiaDoZe.Presentation.AppMaui\\Views\\DashboardListPage.xaml",
+              "RelativeToolTip": "AcademiaDoZe.Presentation.AppMaui\\Views\\DashboardListPage.xaml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAC0AAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-19T17:05:38.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "AlunoListPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\es874\\TRABALHOS TIO LU\\ACADEMIA\\AcademiaDoZe.Presentation.AppMaui\\Views\\AlunoListPage.xaml.cs",
+              "RelativeDocumentMoniker": "AcademiaDoZe.Presentation.AppMaui\\Views\\AlunoListPage.xaml.cs",
+              "ToolTip": "C:\\Users\\es874\\TRABALHOS TIO LU\\ACADEMIA\\AcademiaDoZe.Presentation.AppMaui\\Views\\AlunoListPage.xaml.cs",
+              "RelativeToolTip": "AcademiaDoZe.Presentation.AppMaui\\Views\\AlunoListPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T20:58:39.33Z"
             }
           ]
         },
